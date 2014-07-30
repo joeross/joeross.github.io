@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Articles | Joe Ross]]></title>
+  <link href="http://joeross.github.io/blog/categories/articles/atom.xml" rel="self"/>
+  <link href="http://joeross.github.io/"/>
+  <updated>2014-07-30T12:25:59-04:00</updated>
+  <id>http://joeross.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Perverting the Metric: The Role of Metrics in Editorial Strategy]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/02/perverting-the-metric-the-role-of-metrics-in-editorial-strategy/"/>
+    <updated>2014-07-02T08:22:48-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/02/perverting-the-metric-the-role-of-metrics-in-editorial-strategy</id>
+    <content type="html"><![CDATA[<p><img src="http://constantandendless.com/wp-content/uploads/2014/07/perverting-the-metric-medium.png" alt="perverting-the-metric-medium" /></p>
+
+<p>HuffPo and BuzzFeed co-founder Jonah Peretti recently said in a long and fascinating <a href="https://medium.com/matter/buzzfeeds-jonah-peretti-goes-long-e98cf13160e7">interview</a> by Felix Salmon published at <em>Matter</em>:</p>
+
+<blockquote>
+  I love metrics and I love thinking about optimization, but I think that the optimal state is being slightly suboptimal because as soon as you try to actually optimize, particularly for a single metric, you end up finding that the best way to optimize for that metric ends up perverting the metric and making the metric mean the opposite of what it used to mean.
+</blockquote>
+
+
+<p>This reminded me of an idea I&rsquo;ve been kicking around for a while about how best to approach digital editorial strategy: it requires an ability to wield metrics, vision and instinct in just the right proportions.</p>
+
+<!-- more -->
+
+
+<p>It&rsquo;s something I&rsquo;ve been a part of for my own tiny blog here, an arts and culture <a href="http://keypulp.com">website</a> I co-founded, and even a business journal&rsquo;s web presence. I&rsquo;ve learned a few important things from my experience with editorial strategy, and while none of them are particularly surprising or mysterious, I think writing them out will be helpful to myself and perhaps to others.</p>
+
+<h4>Contribute to the Conversation</h4>
+
+<p>Metrics are a great place to <em>begin</em> a conversation about editorial strategy but a terrible way to <em>end</em> it. I&rsquo;ve seen metrics substituted for thinking critically about editorial direction all over the web, and what&rsquo;s worse is I&rsquo;ve been in the room when some of those poor decisions were made and I failed to object. It&rsquo;s not a mistake I&rsquo;m proud of, nor one I would make again.</p>
+
+<p>But it&rsquo;s easy to criticize after the fact. True leadership demands urgency. Whenever metrics are <em>the</em> deciding factor in an editorial decision, someone is making a mistake and it&rsquo;s your responsibility to tell them.</p>
+
+<p>Be respectful when their name is closer to the top of the org-chart than yours, but be direct and back up your assertions with evidence. Even if you&rsquo;re outranked by everyone else in the room, at worst, you&rsquo;ll be ignored, and at best you&rsquo;ll show initiative and concern for the publication&rsquo;s success.</p>
+
+<p>I&rsquo;m not saying there is no place for metrics in editorial strategy. They should absolutely be involved in the decision-making process, but they should never be the sole ingredient. In other words, these days metrics are <em>usually</em> necessary1 but <em>never</em> sufficient to make an informed editorial judgement.</p>
+
+<h4>Reactive vs. critical thinking</h4>
+
+<p>Pure reactivity is the wrong way to use metrics, and looks something like this:</p>
+
+<p><em>&ldquo;Everyone clicks this type of story, so let&rsquo;s do more of this type of story!&rdquo;</em></p>
+
+<p>Don&rsquo;t use metrics to narrowly define editorial strategy. After all, an algorithm could do that with little or no human intervention (and, as I&rsquo;ll discuss below, they often do). Popular topics don&rsquo;t need much additional promotion. They surface organically and allow you to focus on promoting lesser-known work of equal quality. This is a powerful concept if you&rsquo;re wiling to use it in your strategy sessions.</p>
+
+<p>Use metrics as one factor in your strategy. After all, the numbers are way to read between your own lines and to learn what drives popular content beyond mere keywords. That looks something like this:</p>
+
+<p><em>&ldquo;Everyone clicks on this type of story. What about it, beyond the mere subject matter, makes it so appealing?&rdquo;</em></p>
+
+<h4>One problem, many possible solutions</h4>
+
+<p>There are many reasons some content does more <a href="https://support.google.com/analytics/answer/1006243?hl=en">pageviews</a>, higher <a href="http://www.kaushik.net/avinash/standard-metrics-revisited-time-on-page-and-time-on-site/">time-on-page</a> or lower <a href="https://support.google.com/analytics/answer/1009409?hl=en">bounce rates</a> than other content. Here are some illustrations of the problem of a narrow band of popular topics getting the majority of attention, and some ways I have thought up and in some cases successfully implemented to solve the problem.</p>
+
+<h5>The &ldquo;Top Post&rdquo; Filter Bubble</h5>
+
+<p>Eli Pariser popularized the idea of the <a href="http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles">filter bubble</a>, an explanation for how tailored web content reinforces viewpoints with which we already agree, and insulates us from alternative perspectives. Metrics are often used to do this on websites.</p>
+
+<p>The most-read stories of the previous day might be featured prominently in the sidebar. This additional exposure gets them even more clicks, and even if the software causes articles older than one day to &ldquo;age out&rdquo; of the featured-posts box, it still severely limits the potential for featuring other articles.</p>
+
+<p>This may be the problem at some sites: your digital publication doesn&rsquo;t know how to surface its best content. Consider adding to popular posts some links to less popular but equally valuable content. This will combat the filter bubble and help expose readers to good stuff they may otherwise miss.</p>
+
+<h5>The Slideshow Site</h5>
+
+<p>Slideshows are a dangerous game. They are almost guaranteed to turn your steady daily traffic into a big spike. If even half your daily visitors go through even half a 20-slide show, you&rsquo;re doing five times your usual traffic that day. If you&rsquo;re not careful, you risk becoming known as the slideshow site, instead of the news site.</p>
+
+<p>If you insist on building slideshows, use myriad internal links to point your slideshow viewers to your substantive content. Better yet, work with in-house or outside developers to automate internal links to archive pages. For example, if you run a site about New York, the first time the name &ldquo;Michael Bloomberg&rdquo; appears in an article, your content management system could auto-generate a link to a page listing all articles mentioning his name.</p>
+
+<h5>10 Things About Headlines You Have to Read to Believe</h5>
+
+<p>Sorry to mislead you, but I&rsquo;m only to going to talk about one. Slideshows often have numbers in the headline by definition. That is one explanation for why they&rsquo;re so popular. People like headlines with numbers, as a <a href="https://www.google.com/search?q=numbers+in+headlines&amp;rlz=1CDGOYI_enUS590US590&amp;oq=numbers+in+he&amp;aqs=chrome.3.69i57j0j5j0&amp;sourceid=chrome-mobile&amp;ie=UTF-8&amp;hl=en-US&amp;espv=1">quick search for &ldquo;numbers in headlines&rdquo;</a> will illustrate.</p>
+
+<p>I don&rsquo;t advocate making every article a list. In fact, that&rsquo;s a terrible idea, at least for news sites. But it&rsquo;s worth incorporating numbers into headlines where it doesn&rsquo;t look forced. For example, instead of &ldquo;CEOs cite multiple syngeries as key to upcoming merger,&rdquo; try &ldquo;3 reasons Hospital 1 and Hospital 2 are merging, straight from the CEOs.&rdquo;</p>
+
+<h5>On-point but out of sight</h5>
+
+<p>Maybe topics clearly within your site&rsquo;s wheelhouse don&rsquo;t perform well, no matter how many headlines, reporters or A/B tested tweets you use to produce and market them. This may simply mean the audience for those topics is substantially smaller than your broader audience. Don&rsquo;t wait for the audience to find you.</p>
+
+<p>I had great success finding an audience for some very niche stories because I sought it out on Reddit, in web forums, in Google+ Communities, with Twitter hashtags and more. The idea is that there are groups of people who self-select for interest in topics otherwise lacking broad appeal. Those audiences are smaller, but they are also more engaged, so the time spent finding them is worth it.</p>
+
+<p>These are just examples, and the problems differ from site to site. But I think they explain the value and the limits of metrics in evaluating and improving editorial strategy at digital publications.</p>
+
+<hr />
+
+<ol>
+<li><p>If I say metrics are <em>always</em> necessary to make an informed editorial judgement, I omit the occasionally successful-despite-what-the-metrics-suggest, good-old-fashioned gut decision, and I&rsquo;m not comfortable doing that. ↩</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Moves, Contradicting Previous Statement, May Share User Data With Facebook Under New Privacy Policy]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/05/moves-may-share-data-facebook-new-privacy-policy/"/>
+    <updated>2014-05-05T15:30:06-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/05/moves-may-share-data-facebook-new-privacy-policy</id>
+    <content type="html"><![CDATA[<p>When Facebook acquired fitness tracking app Moves, the two said user data would not be commingled. But Moves' new privacy policy reverses course.</p>
+
+<!-- more -->
+
+
+<p>First, when fitness tracking app Moves was <a href="http://techcrunch.com/2014/04/24/facebook-acquires-activity-tracking-app-moves/">acquired by Facebook</a> in April, it said:</p>
+
+<blockquote>
+  For those of you that use the Moves app – the Moves experience will continue to operate as a standalone app, and there are no plans to change that or commingle data with Facebook.
+</blockquote>
+
+
+<p>CNET <a href="http://www.cnet.com/news/facebook-acquires-health-fitness-tracking-app-moves/">reported</a> almost identical language from Facebook:</p>
+
+<blockquote>
+  A spokesperson for Facebook confirmed the plans to keep the Moves app standalone and not commingle its data
+</blockquote>
+
+
+<p>Today, in an updated <a href="https://moves-app.com/privacy">privacy policy</a>, Moves said (emphasis mine):</p>
+
+<blockquote>
+  We may share information, including personally identifying information, with our Affiliates (companies that are part of our corporate groups of companies, _including but not limited to Facebook_) to help provide, understand, and improve our Services.
+</blockquote>
+
+
+<p>I suppose the updated policy doesn&rsquo;t <em>technically</em> contradict the statements by Moves and Facebook because it&rsquo;s feasible there were no plans <em>at that time</em> to commingle data with Facebook. But my initial reaction was incredulity.</p>
+
+<p>After all, the <em>Wall Street Journal</em> <a href="http://blogs.wsj.com/digits/2014/04/24/with-app-acquisition-facebook-enters-fitness-tracking-market/?mod=WSJ_WSJ_News_BlogsModule&amp;utm_source=twitterfeed&amp;utm_medium=twitter">reported</a> Moves had been downloaded 4 million times. Surely Mark Zuckerberg acquired Moves <em>primarily for</em> its ever-growing trove of user activity data. Why else?</p>
+
+<p>But none of the coverage questioned the initial statements, and I figured the companies wouldn&rsquo;t say it so plainly if it wasn&rsquo;t true. So I decided to wait and see.</p>
+
+<p>Well, I&rsquo;ve waited and seen. The lesson here is that it is wiser to pay attention only to what a company <em>does</em>, not what it <em>says</em>. If it looks like a data grab and smells like a data grab, it&rsquo;s probably a data grab. Even if, <em>especially if</em>, someone tells you it isn&rsquo;t a data grab.</p>
+
+<p>Facebook deals in data, whether its hundreds of millions of users know it or care about it or not. And Moves would be stupid not to take the money and, more importantly, the resources Facebook can bring to bear on improving the app. So a data grab isn&rsquo;t a surprise. Perhaps the &ldquo;no commingling&rdquo; language was an elegant public relations play meant to minimize privacy concerns in the press. That would seem to have worked: as of this article&rsquo;s publication I couldn&rsquo;t find a single story on the change.</p>
+
+<p>Zuckerberg&rsquo;s <a href="http://www.nytimes.com/2014/04/17/technology/the-future-of-facebook-may-not-say-facebook.html">recently stated intent</a> to grow via the acquisition and development of discreet apps and services raises another interesting issue. To quit Facebook, it may not be enough anymore to, well, quit Facebook. If I closed my Facebook account today, the company could still gather data about me for as long as I use Moves. Facebook has a growing <a href="http://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook">list of acquisitions</a> under its belt, so that concern is likely to increase with time.</p>
+
+<p>This example of corporate self-contradiction is a good reminder: Always assume your data is a valuable and transferable commodity in the eyes and on the servers of the apps and services you use. Some people are deterred by that fact, while others are not. There is no right or wrong answer, just a continuum of personal comfort and preference.</p>
+
+<p>While I wish the companies had been more forthright from the beginning, I won&rsquo;t stop using Moves. I have personally always been relatively open in sharing data in exchange for convenience and utility. But that doesn&rsquo;t mean I&rsquo;m not alarmed by the increasing difficulty of using the internet and related apps and services for those who disagree with my position on openness.</p>
+
+<p>Share your perspective via email at joe@joeross.me, on <a href="http://twitter.com/joeross">Twitter</a> or in the comments.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Down the Aggregation Rabbit Hole]]></title>
+    <link href="http://joeross.github.io/blog/2014/04/10/aggregation-rabbit-hole/"/>
+    <updated>2014-04-10T09:00:19-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/04/10/aggregation-rabbit-hole</id>
+    <content type="html"><![CDATA[<p>This began as a link post pointing to Joel Achenbach&rsquo;s <em>Washington Post</em> blog entry <a href="http://www.washingtonpost.com/blogs/achenblog/wp/2014/04/09/journalism-is-aggregation/">Journalism is aggregation</a>. But, like more and more link posts lately, it got away from me and merged into its own article.</p>
+
+<!-- more -->
+
+
+<p>Achenbach decides journalism is aggregation, and that&rsquo;s okay. Or maybe he decides it&rsquo;s not <em>really</em> aggregation, or that it&rsquo;s at an acceptable point along the continuum between valueless aggregation and value-adding aggregation. I&rsquo;m not actually sure he settled on a conclusion, and that&rsquo;s okay, too.</p>
+
+<p>Achenbach had reminded me of <a href="http://joeross.me/aggregation-aggregation/#more-1698">my recent post</a> on the topic, which prompted the author of the post I was commenting about to leave me <a href="http://joeross.me/aggregation-aggregation/#comment-8">a nice comment</a> of his own. (So meta!)</p>
+
+<p>And <em>then</em> I found <a href="http://www.niemanlab.org/2014/04/journalism-is-aggregation/">this post by Joshua Benton</a> at the <em>Nieman Journalism Lab</em> expressing some disappointment with Achenbach&rsquo;s aforementioned lack of a conclusion, or more precisely paints his conclusion as a bit of backtracking. I&rsquo;m not sure I agree with Benton&rsquo;s take, but both men raise interesting points.</p>
+
+<p>Some journalism is aggregation, but most <em>good</em> and all <em>great</em> journalism is more than mere aggregation. It&rsquo;s a synthesis of the anecdotes, data, facts and perspectives of as many reliable sources as you can fit into your word limit. Right? That&rsquo;s an accurate description of much of the best journalism I&rsquo;ve read in the past year or two.</p>
+
+<p>To me, pure aggregation on the web involves sharing a link and perhaps pairing it with an inflammatory or vapid comment. Sometimes, that&rsquo;s actually fine with me. Twitter is a good example of that. But no one would call it journalism, even when journalists do it. That&rsquo;s important to keep in mind, I think: not everything a journalist does online or off is, or is intended as, journalism.</p>
+
+<p>Achenbach wrote about the interview process, which most journalists use to offer different perspectives on a piece of news from experts of different disciplines or schools of thought. Interviews, collecting the commentary of multiple sources, <em>are</em> an aggregation of those opinions. But that&rsquo;s just one activity in the composite of activities which together compose an act of &ldquo;journalism.&rdquo; The result is an article in which, as Achenbach also says near the end of his post, the reporter has drawn on personal knowledge, research and experience <em>beyond the interviews and facts aggregated.</em></p>
+
+<p>Aggregation, then, is the collection and presentation of opinions or facts, adding little or no context. Journalism, I think, is an equation like this:</p>
+
+<p><code>Journalism = aggregation + context</code></p>
+
+<p>I want to know what you would add to, or remove from, that equation. I realize that aggregation on the web generally, and as an issue in digital journalism and publishing specifically, predates my humble blog posts on the topic, but I want to explore it with other interested folks.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NPEs Planning Patent Litigation May Be Safer as Private Companies]]></title>
+    <link href="http://joeross.github.io/blog/2014/04/06/npes-planning-patent-litigation-may-be-safer-as-private-companies/"/>
+    <updated>2014-04-06T13:03:28-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/04/06/npes-planning-patent-litigation-may-be-safer-as-private-companies</id>
+    <content type="html"><![CDATA[<p><em><strong>Note: I&rsquo;m not your lawyer, you&rsquo;re not my client, and nothing in this article is, or should be construed as, legal advice.
+</strong></em></p>
+
+<p>Companies that don&rsquo;t sell anything and exist only to enforce patent rights, sometimes purchased from the original patent holder solely for the value of enforcement, are known as non-practicing entities (NPEs) or, pejoratively by defendant companies and their attorneys, &ldquo;patent trolls."1</p>
+
+<p>The NPE will sue claiming infringement of one or more patents, and may not actually have any intent to litigate. Many companies and inventors of all sizes regard NPEs scornfully, but are often forced to play ball because settlement is almost always cheaper than litigation. For smaller startups, the cost of litigation may even pose an existential threat.</p>
+
+<!-- more -->
+
+
+<p>Allow me to play devil&rsquo;s advocate for a bit. I consider most NPEs parasites, siphoning money out of the market in return for nothing at all. But here are some thoughts on what some of them may be doing wrong from their own perspective. After all, what good is an attorney who can&rsquo;t think like his enemy?</p>
+
+<p>Let me explain some basic corporate law, as much for my recollection as for your edification. A corporation is subject to the law of the state in which it incorporates, and corporate law differs from state to state. The cases I cite below only illustrate the foundational principles of corporate statutory and common law.</p>
+
+<p>A company&rsquo;s board directors and officers owe several fiduciary duties to shareholders and the company itself. One of those is the duty of care, which says that responsibility for &ldquo;the financial interests of others imposes on a director an affirmative duty to protect those interests."2</p>
+
+<p>However, courts realize businesspersons are in a better position than judges and attorneys to make sound decisions for their companies. For that reason, courts often defer to the judgment of a company&rsquo;s leadership absent some gross negligence.3</p>
+
+<p>The business judgment rule, as it is called, is at its core :</p>
+
+<blockquote>
+  a presumption that in making a business decision the directors of a corporation acted on an informed basis, in good faith and in the honest belief that the action taken was in the best interests of the company.4
+</blockquote>
+
+
+<p>Thus, the fiduciary duty of care owed to shareholders by directors and officers requires them to make a &ldquo;good faith effort to be informed and exercise judgment."5</p>
+
+<p>So, now back to the NPEs. When a company faces suit by an NPE, its leaders are <em>obligated</em> to compare the costs of litigation and settlement and choose the path most protective of the company&rsquo;s and shareholders' interests, which is usually the less costly path. And <em>that</em>, of course, is almost always settlement.</p>
+
+<p>Joe Mullin, <a href="http://arstechnica.com/tech-policy/2014/04/newegg-and-geico-stop-patent-troll-that-sued-dozens-over-forms-on-apps/">writing for <em>Ars Technica</em></a>, explains the financial position of an NPE recently vanquished by web-based tech retailer Newegg:</p>
+
+<blockquote>
+  MacroSolve had about $800,000 on hand and looked to be burning through about $50,000 a month, not including payments to its lawyers.
+</blockquote>
+
+
+<p>That $50,000 happens to match the low-end of the amount MacroSolve demanded of companies against which it brought patent infringement lawsuits. In other words, it matched its settlement demands to its burn rate.6</p>
+
+<p>It was actually <em>surviving</em> only, or primarily, by threatening to go to trial on patent claims of dubious validity. MacroSolve is a public company, so much of their financial and operational information is <a href="http://www.macrosolve.com/investors/">openly available</a>. Newegg realized after reviewing that information that MacroSolve&rsquo;s burn rate matched the settlement demands, and built a strategy around it: call the MacroSolve bluff, revealed by their public financials, by refusing to settle, causing their burn rate to deplete cash-on-hand and substantially reduce or totally eliminate the company&rsquo;s ability to press on with any outstanding litigation.</p>
+
+<p>NPEs registered as private companies and considering the MacroSolve strategy may be safer staying private. Public companies may want to consider <a href="http://ift.tt/1e3dHc0">taking the company private</a> before using litigation or threat of litigation, on the assumption that some percentage of defendants will settle, to fund the company&rsquo;s survival.</p>
+
+<p>In conclusion, patent litigation by non-practicing entities is even more a game of poker than most litigation, to the extent the defendant isn&rsquo;t really infringing or the patent&rsquo;s validity is assailable, and public companies show too much of their hand too much of the time to play safely under most corporate law regimes.7</p>
+
+<hr />
+
+<ol>
+<li><p>Read the canonical story of the birth of the phrase &ldquo;patent troll,&rdquo; in spring of 1999, <a href="http://www.iam-magazine.com/blog/detail.aspx?g=cff2afd3-c24e-42e5-aa68-a4b4e7524177">here</a>. ↩</p></li>
+<li><p><em>Smith v. Van Gorkom</em>, 488 A.2d 858, 872 (Del. 1985) (<a href="http://scholar.google.com/scholar_case?case=15445043763196054007">Opinion</a>) ↩</p></li>
+<li><p><em>Aronson v. Lewis</em>, Del.Supr., 473 A.2d 805, 812-13 (1984) (<a href="http://scholar.google.com/scholar_case?case=2805892431585302628">Opinion</a>) ↩</p></li>
+<li><p><em>Id.</em> at 812 (<a href="http://scholar.google.com/scholar_case?case=2805892431585302628">Opinion</a>) ↩</p></li>
+<li><p><em>In re Caremark Int'l Inc. Derivative Litigation</em>, 698 A.2d 959, 968 (Del. Ch. 1996) (<a href="http://scholar.google.com/scholar_case?case=14782220911008163269">Opinion</a>) ↩</p></li>
+<li><p>Successful venture capitalist Fred Wilson defines burn rate as &ldquo;the speed at which your cash balance is going down.&rdquo; Read his article on the topic <a href="http://avc.com/2011/12/burn-rate/">here</a>. ↩</p></li>
+<li><p>Of course, putting the devil&rsquo;s advocate thing aside for a moment, which I do in a footnote in keeping with the spirit of the article, it&rsquo;s probably best to innovate in some meaningful way and get a new or improved product to market instead of looking for the most defensible way to monetize patents which may not be valid and probably aren&rsquo;t being infringed anyway. ↩</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reading List: Law Reviews, Loans, Novels and Crimea]]></title>
+    <link href="http://joeross.github.io/blog/2014/03/22/reading-list-law-reviews-loans-novels-crimea/"/>
+    <updated>2014-03-22T14:04:40-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/03/22/reading-list-law-reviews-loans-novels-crimea</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s what I&rsquo;ve been reading lately. The Crimea story is easily the most important one in terms of knowing some stuff about what&rsquo;s going on in the world, but it&rsquo;s all worth a look.</p>
+
+<!-- more -->
+
+
+<p>The fellow who put together that Crimea reading list (at the bottom of the list below) is Om Malik, founder of <a href="http://gigaom.com">GigaOm</a> and a great writer <a href="http://om.co/">in his own right</a>.</p>
+
+<ul>
+<li><p><a href="http://ift.tt/O61jpX">Abolish the Law Reviews!</a></p></li>
+<li><p><a href="http://ift.tt/PwqIjl">Never been a better time for law school grads to get a job</a></p></li>
+<li><p><a href="http://ift.tt/PwqJ6E">Confidentiality Agreements: Some Unintended Consequences</a></p></li>
+<li><p><a href="http://ift.tt/1eMAxUj">Co-founder liable for sending company’s social media followers to new competing company’s Facebook page</a></p></li>
+<li><p><a href="http://ift.tt/PwqIzE">How Student Loan Deferments Affect Your Credit</a></p></li>
+<li><p><a href="http://ift.tt/1eV8xho">Time Enough for Love</a></p></li>
+<li><p><a href="http://ift.tt/1klFbZj">Community design</a></p></li>
+<li><p><a href="http://ift.tt/1hYQBVc">Clampersand</a></p></li>
+<li><p><a href="http://ift.tt/1o9rvk1">Opening Lines of Notable Novels — Print — Tools and Toys</a></p></li>
+<li><p><a href="http://ift.tt/1ojIDDH">Essential Crimea Reader: 7 Must Read Stories</a></p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

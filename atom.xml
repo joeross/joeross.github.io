@@ -4,7 +4,7 @@
   <title><![CDATA[Joe Ross]]></title>
   <link href="http://joeross.github.io/atom.xml" rel="self"/>
   <link href="http://joeross.github.io/"/>
-  <updated>2014-07-30T12:19:20-04:00</updated>
+  <updated>2014-07-30T12:25:59-04:00</updated>
   <id>http://joeross.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,484 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Larry Lessig Fighting for Campaign Finance Reform With Mayday Pac]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/29/larry-lessig-fighting-for-campaign-finance-reform-with-mayday-pac/"/>
+    <updated>2014-07-29T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/29/larry-lessig-fighting-for-campaign-finance-reform-with-mayday-pac</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>layout: post
+title: Larry Lessig fighting for campaign finance reform with Mayday PAC
+date: 2014-07-29
+category: links
+tags: law, politics, campaign finance, lessig
+permalink:
+published: true</p>
+
+<h1>external-url: <a href="http://nytimes.com/2014/07/29/us/spending-big-to-fight-big-donors.html">http://nytimes.com/2014/07/29/us/spending-big-to-fight-big-donors.html</a></h1>
+
+<p><a href="http://nytimes.com/2014/07/29/us/spending-big-to-fight-big-donors.html">Larry Lessig fighting for campaign finance reform with Mayday PAC
+</a></p>
+
+<p>Lawrence Lessig&rsquo;s <a href="https://mayday.us">Mayday PAC</a> is using the very system it decries to attempt to bring that system down. In other words, Lessig et al are hijacking the virus (the influence of big donors on American politics via election contributions) to deliver the vaccine (funding for politicians committed to proposals which would limit big political contributions).</p>
+
+<p>If you support the cause, be heartened: Lessig <a href="http://www.npr.org/blogs/alltechconsidered/2013/09/27/226834651/record-label-picks-a-fight-over-copyright-with-the-wrong-guy">likes to fight</a>, and is good at it.</p>
+
+<p>If you don&rsquo;t support the cause, it&rsquo;s probably time to start taking Mayday seriously. Your candidate&rsquo;s job may depend on it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook Is Not Free]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/22/facebook-is-not-free/"/>
+    <updated>2014-07-22T15:51:41-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/22/facebook-is-not-free</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1wQ7jYw">Facebook is not free</a></p>
+
+<p>If you use Facebook, this article is a must-read. It’s now common knowledge Facebook is always watching and analyzing how you use the service. But the breadth and depth of the company’s participation in the data brokering economy is staggering. The worst part? You literally signed up for it.</p>
+
+<p>Facebook obviously doesn’t charge its users money, but the mere act of creating a profile affirmatively grants the company total access and usage rights over everything you do on the site. It even shares its data about you with data brokerage firms whose business model is monetizing you.</p>
+
+<p>This is all stuff I have personally known and accepted for a long time, but as the ability to easily aggregate dossiers on anyone and everyone increases, it’s more important than ever to educate yourself and those you care about. Facebook is not free, and in fact it’s worth asking whether the price most people pay by clicking a harmless-looking “I agree” button is really worth it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why We Don't Speak Up at Work]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/16/why-we-dont-speak-up-at-work/"/>
+    <updated>2014-07-16T09:28:30-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/16/why-we-dont-speak-up-at-work</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1roiuqV">Why we don&rsquo;t speak up at work</a></p>
+
+<p>This piece by Claire Lew at Signal v. Noise doesn’t exactly fit into my general topics of law, technology and design, but it’s so important I that feel obligated to share it. I mention in my article about the role of metrics in editorial strategy that I’ve been present for some poor decisions and didn’t speak my mind.</p>
+
+<p>Claire’s post explains exactly why I failed to speak up, and it’s an important read whether you’re a manager or not. Unlike more navel-gazing, hand-wavy articles in the management advice realm, she actually offers some practical advice.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[For the NSA, We Are the Haystack]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/06/for-the-nsa-we-are-the-haystack/"/>
+    <updated>2014-07-06T18:38:22-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/06/for-the-nsa-we-are-the-haystack</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1xyAP7v">For the NSA, we are the haystack</a></p>
+
+<p>Barton Gellman, Julie Tate and Ashkan Soltani, reporting at the Washington Post:</p>
+
+<blockquote>
+  Nine of 10 account holders found in a large cache of intercepted conversations, which former NSA contractor Edward Snowden provided in full to The Post, were not the intended surveillance targets but were caught in a net the agency had cast for somebody else.
+</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook COO Sandberg Apologizes for Emotional Contagion Experiment]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/04/facebook-coo-sandberg-apologizes-for-emotional-contagion-experiment/"/>
+    <updated>2014-07-04T08:19:56-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/04/facebook-coo-sandberg-apologizes-for-emotional-contagion-experiment</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1riQbfR">Facebook COO Sandberg apologizes for emotional contagion experiment</a></p>
+
+<ol type="a">
+<li>Jai Krishna, reporting on the reaction of Facebook Chief Operating Officer Sheryl Sandberg to the outcry over the company’s experiment on the emotions of nearly 700,000 unwitting users:</li>
+</ol>
+
+
+<blockquote>
+  We take privacy and security at Facebook really seriously because that is something that allows people to share” opinions and emotions, Sandberg said.
+</blockquote>
+
+
+<p>The telling part about Sandberg’s reaction is that those who take privacy and security seriously don’t have to say very often, if at all.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podcast of the Week: This Week in Law]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/03/podcast-of-the-week-this-week-in-law/"/>
+    <updated>2014-07-03T08:08:23-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/03/podcast-of-the-week-this-week-in-law</id>
+    <content type="html"><![CDATA[<p><a href="http://twit.tv/twil">Podcast of the Week: This Week in Law</a></p>
+
+<p>When it comes to my own website, editorial calendars always give way to real life. I&rsquo;m back with the latest in a series that would be more accurately called the &ldquo;Podcast of the Month.&rdquo; I really need to step it up with these, as I still have about 70 of them to which I listen with some regularity.</p>
+
+<p>I&rsquo;m featuring This Week In Law, a podcast covering technology, privacy, intellectual property and other areas of the law relevant to the internet and its users, for a couple of reasons. The first is that the most recent episode (embedded below), entitled <a href="http://twit.tv/show/this-week-in-law/265">Monkeys, Ducks and Unicorns</a>, discusses the Aereo case as well as a recent Fourth Amendment case about cell phones, both decided by the Supreme Court in June.</p>
+
+<p>The second reason I&rsquo;m featuring This Week in Law is because I have probably listened to more hours of this podcast than any other. It got me through law school by education, entertaining and inspiring me, even while I was studying far less interesting areas of the law. The voices of Denise Howell and Evan Brown, in a way that only happens on the internet, more familiar to me than some of my longest friends&#8217; voices.</p>
+
+<p>Subscribe to This Week In Law in <a href="https://itunes.apple.com/us/podcast/this-week-in-law-mp3/id202795271">iTunes</a>, <a href="http://pcasts.in/twl">Pocket Casts</a> or <a href="http://feeds.twit.tv/twil.xml">RSS</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Perverting the Metric: The Role of Metrics in Editorial Strategy]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/02/perverting-the-metric-the-role-of-metrics-in-editorial-strategy/"/>
+    <updated>2014-07-02T08:22:48-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/02/perverting-the-metric-the-role-of-metrics-in-editorial-strategy</id>
+    <content type="html"><![CDATA[<p><img src="http://constantandendless.com/wp-content/uploads/2014/07/perverting-the-metric-medium.png" alt="perverting-the-metric-medium" /></p>
+
+<p>HuffPo and BuzzFeed co-founder Jonah Peretti recently said in a long and fascinating <a href="https://medium.com/matter/buzzfeeds-jonah-peretti-goes-long-e98cf13160e7">interview</a> by Felix Salmon published at <em>Matter</em>:</p>
+
+<blockquote>
+  I love metrics and I love thinking about optimization, but I think that the optimal state is being slightly suboptimal because as soon as you try to actually optimize, particularly for a single metric, you end up finding that the best way to optimize for that metric ends up perverting the metric and making the metric mean the opposite of what it used to mean.
+</blockquote>
+
+
+<p>This reminded me of an idea I&rsquo;ve been kicking around for a while about how best to approach digital editorial strategy: it requires an ability to wield metrics, vision and instinct in just the right proportions.</p>
+
+<!-- more -->
+
+
+<p>It&rsquo;s something I&rsquo;ve been a part of for my own tiny blog here, an arts and culture <a href="http://keypulp.com">website</a> I co-founded, and even a business journal&rsquo;s web presence. I&rsquo;ve learned a few important things from my experience with editorial strategy, and while none of them are particularly surprising or mysterious, I think writing them out will be helpful to myself and perhaps to others.</p>
+
+<h4>Contribute to the Conversation</h4>
+
+<p>Metrics are a great place to <em>begin</em> a conversation about editorial strategy but a terrible way to <em>end</em> it. I&rsquo;ve seen metrics substituted for thinking critically about editorial direction all over the web, and what&rsquo;s worse is I&rsquo;ve been in the room when some of those poor decisions were made and I failed to object. It&rsquo;s not a mistake I&rsquo;m proud of, nor one I would make again.</p>
+
+<p>But it&rsquo;s easy to criticize after the fact. True leadership demands urgency. Whenever metrics are <em>the</em> deciding factor in an editorial decision, someone is making a mistake and it&rsquo;s your responsibility to tell them.</p>
+
+<p>Be respectful when their name is closer to the top of the org-chart than yours, but be direct and back up your assertions with evidence. Even if you&rsquo;re outranked by everyone else in the room, at worst, you&rsquo;ll be ignored, and at best you&rsquo;ll show initiative and concern for the publication&rsquo;s success.</p>
+
+<p>I&rsquo;m not saying there is no place for metrics in editorial strategy. They should absolutely be involved in the decision-making process, but they should never be the sole ingredient. In other words, these days metrics are <em>usually</em> necessary1 but <em>never</em> sufficient to make an informed editorial judgement.</p>
+
+<h4>Reactive vs. critical thinking</h4>
+
+<p>Pure reactivity is the wrong way to use metrics, and looks something like this:</p>
+
+<p><em>&ldquo;Everyone clicks this type of story, so let&rsquo;s do more of this type of story!&rdquo;</em></p>
+
+<p>Don&rsquo;t use metrics to narrowly define editorial strategy. After all, an algorithm could do that with little or no human intervention (and, as I&rsquo;ll discuss below, they often do). Popular topics don&rsquo;t need much additional promotion. They surface organically and allow you to focus on promoting lesser-known work of equal quality. This is a powerful concept if you&rsquo;re wiling to use it in your strategy sessions.</p>
+
+<p>Use metrics as one factor in your strategy. After all, the numbers are way to read between your own lines and to learn what drives popular content beyond mere keywords. That looks something like this:</p>
+
+<p><em>&ldquo;Everyone clicks on this type of story. What about it, beyond the mere subject matter, makes it so appealing?&rdquo;</em></p>
+
+<h4>One problem, many possible solutions</h4>
+
+<p>There are many reasons some content does more <a href="https://support.google.com/analytics/answer/1006243?hl=en">pageviews</a>, higher <a href="http://www.kaushik.net/avinash/standard-metrics-revisited-time-on-page-and-time-on-site/">time-on-page</a> or lower <a href="https://support.google.com/analytics/answer/1009409?hl=en">bounce rates</a> than other content. Here are some illustrations of the problem of a narrow band of popular topics getting the majority of attention, and some ways I have thought up and in some cases successfully implemented to solve the problem.</p>
+
+<h5>The &ldquo;Top Post&rdquo; Filter Bubble</h5>
+
+<p>Eli Pariser popularized the idea of the <a href="http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles">filter bubble</a>, an explanation for how tailored web content reinforces viewpoints with which we already agree, and insulates us from alternative perspectives. Metrics are often used to do this on websites.</p>
+
+<p>The most-read stories of the previous day might be featured prominently in the sidebar. This additional exposure gets them even more clicks, and even if the software causes articles older than one day to &ldquo;age out&rdquo; of the featured-posts box, it still severely limits the potential for featuring other articles.</p>
+
+<p>This may be the problem at some sites: your digital publication doesn&rsquo;t know how to surface its best content. Consider adding to popular posts some links to less popular but equally valuable content. This will combat the filter bubble and help expose readers to good stuff they may otherwise miss.</p>
+
+<h5>The Slideshow Site</h5>
+
+<p>Slideshows are a dangerous game. They are almost guaranteed to turn your steady daily traffic into a big spike. If even half your daily visitors go through even half a 20-slide show, you&rsquo;re doing five times your usual traffic that day. If you&rsquo;re not careful, you risk becoming known as the slideshow site, instead of the news site.</p>
+
+<p>If you insist on building slideshows, use myriad internal links to point your slideshow viewers to your substantive content. Better yet, work with in-house or outside developers to automate internal links to archive pages. For example, if you run a site about New York, the first time the name &ldquo;Michael Bloomberg&rdquo; appears in an article, your content management system could auto-generate a link to a page listing all articles mentioning his name.</p>
+
+<h5>10 Things About Headlines You Have to Read to Believe</h5>
+
+<p>Sorry to mislead you, but I&rsquo;m only to going to talk about one. Slideshows often have numbers in the headline by definition. That is one explanation for why they&rsquo;re so popular. People like headlines with numbers, as a <a href="https://www.google.com/search?q=numbers+in+headlines&amp;rlz=1CDGOYI_enUS590US590&amp;oq=numbers+in+he&amp;aqs=chrome.3.69i57j0j5j0&amp;sourceid=chrome-mobile&amp;ie=UTF-8&amp;hl=en-US&amp;espv=1">quick search for &ldquo;numbers in headlines&rdquo;</a> will illustrate.</p>
+
+<p>I don&rsquo;t advocate making every article a list. In fact, that&rsquo;s a terrible idea, at least for news sites. But it&rsquo;s worth incorporating numbers into headlines where it doesn&rsquo;t look forced. For example, instead of &ldquo;CEOs cite multiple syngeries as key to upcoming merger,&rdquo; try &ldquo;3 reasons Hospital 1 and Hospital 2 are merging, straight from the CEOs.&rdquo;</p>
+
+<h5>On-point but out of sight</h5>
+
+<p>Maybe topics clearly within your site&rsquo;s wheelhouse don&rsquo;t perform well, no matter how many headlines, reporters or A/B tested tweets you use to produce and market them. This may simply mean the audience for those topics is substantially smaller than your broader audience. Don&rsquo;t wait for the audience to find you.</p>
+
+<p>I had great success finding an audience for some very niche stories because I sought it out on Reddit, in web forums, in Google+ Communities, with Twitter hashtags and more. The idea is that there are groups of people who self-select for interest in topics otherwise lacking broad appeal. Those audiences are smaller, but they are also more engaged, so the time spent finding them is worth it.</p>
+
+<p>These are just examples, and the problems differ from site to site. But I think they explain the value and the limits of metrics in evaluating and improving editorial strategy at digital publications.</p>
+
+<hr />
+
+<ol>
+<li><p>If I say metrics are <em>always</em> necessary to make an informed editorial judgement, I omit the occasionally successful-despite-what-the-metrics-suggest, good-old-fashioned gut decision, and I&rsquo;m not comfortable doing that. ↩</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Houston, We Have a Public Domain Problem]]></title>
+    <link href="http://joeross.github.io/blog/2014/06/30/houston-we-have-a-public-domain-problem/"/>
+    <updated>2014-06-30T00:24:41-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/06/30/houston-we-have-a-public-domain-problem</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1maH88F">Houston, We Have A Public Domain Problem</a></p>
+
+<p>Parker Higgins of the Electronic Frontier Foundation, lamenting the recent removal of a public domain NASA clip he posted on the audio sharing site SoundCloud:</p>
+
+<p>The real goofy bit is that before I started at EFF, I worked at SoundCloud. I actually uploaded this Apollo 13 clip, along with sounds from Apollo 11 and others, as part of a project to attract more historic and archival audio and really celebrate the public domain as a rich source of sounds.</p>
+
+<p>Copyright law has been trending in favor of rights holders for a long time. That’s precisely why unlawful claims of copyright over public domain works are so despicable.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook Experimented on Its Users' Emotions]]></title>
+    <link href="http://joeross.github.io/blog/2014/06/28/facebook-experimented-on-its-users-emotions/"/>
+    <updated>2014-06-28T20:44:13-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/06/28/facebook-experimented-on-its-users-emotions</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1pKsCsk">Facebook experimented on its users&#8217; emotions</a></p>
+
+<p>Aviva Rutkin, reporting in <em>New Scientist</em>:</p>
+
+<blockquote>
+  A team of researchers, led by Adam Kramer at Facebook in Menlo Park, California, was curious to see if this phenomenon would occur online. To find out, they manipulated which posts showed up on the news feeds of more than 600,000 Facebook users. For one week, some users saw fewer posts with negative emotional words than usual, while others saw fewer posts with positive ones.
+</blockquote>
+
+
+<p>Forget about the <a href="http://ift.tt/1wXmZLE">filter bubble</a>, Facebook is (and has been <a href="http://ift.tt/12ESlqE">since at least 2009</a>) a Petri dish.</p>
+
+<p>Click through to find out the results.</p>
+
+<p>Related: <a href="http://ift.tt/1qmRdXO">Even the Editor of Facebook’s Mood Study Thought It Was Creepy</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Budgets and Egos]]></title>
+    <link href="http://joeross.github.io/blog/2014/06/20/budgets-and-egos/"/>
+    <updated>2014-06-20T08:24:06-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/06/20/budgets-and-egos</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1m3ic7U">Budgets and egos</a></p>
+
+<p>Mark Headd, Philly’s first Chief Data Officer, who quit in spring of 2013, talking to Juliana Reyes of Technically Philly about why he resigned the post:</p>
+
+<p>“A self-certifying website is a 20th century answer to the problem of tax deadbeats,” he wrote in an email. “An open data API is a 21st century answer to the problem. And that was my single biggest frustration during my time at the city — we were constantly using 20th century answers to problems that required a 21st century solution.”</p>
+
+<p>I know from personal experience and talking with friends that this is a common complaint of tech-savvy government employees, especially leaders ostensibly authorized to do something about it but never truly empowered.</p>
+
+<p>Budgets and egos slow technological (and many other forms of) progress to a glacial pace in many government settings.</p>
+
+<p>I once spent valuable time collecting requirements for a piece of vital software, researching and recommending a reasonably priced and effective off-the-shelf solution.</p>
+
+<p>Instead, someone decided to shoehorn the new use case into an aging enterprise software suite that had never seemed anything more than an ugly utilitarian GUI on top of a fancy backend of connected spreadsheets.</p>
+
+<p>There was no line-item cost to the shoehorn solution, so it naturally looked like a winner when it came to budgeting. But the person-hours wasted reinventing the wheel easily outweighed the out-of-pocket cost of the solution I had proposed.</p>
+
+<p>And aside from cost, persons in positions of power are often averse to being educated by twenty-somethings. That is especially true when it comes to technology, which most leaders know is important but few truly understand.</p>
+
+<p>Budgets and egos.</p>
+
+<p>Anyway, go read the rest of the article. It looks like Mr. Headd replies to comments, so it’s worth asking him any questions you might have.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Avoid Facebook's All-seeing Eye]]></title>
+    <link href="http://joeross.github.io/blog/2014/06/18/avoid-facebooks-seeing-eye/"/>
+    <updated>2014-06-18T11:45:30-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/06/18/avoid-facebooks-seeing-eye</id>
+    <content type="html"><![CDATA[<p><a href="http://www.zdnet.com/facebook-turns-user-tracking-bug-into-data-mining-feature-for-advertisers-7000030603/">Avoid Facebook&rsquo;s all-seeing eye</a></p>
+
+<p>Violet Blue, reporting at ZDNet:</p>
+
+<blockquote>
+  Facebook also announced Thursday it will begin tracking its users&#8217; browsing and activities on websites and apps outside Facebook, starting within a few weeks
+</blockquote>
+
+
+<p>Her article is full of great advice for people who want to minimize Facebook&rsquo;s tracking ability across desktop and mobile browsers. Be sure to have a look if the recent changes freak you out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Journalism and Tomatoes]]></title>
+    <link href="http://joeross.github.io/blog/2014/06/06/journalism-and-tomatoes/"/>
+    <updated>2014-06-06T12:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/06/06/journalism-and-tomatoes</id>
+    <content type="html"><![CDATA[<p><a href="http://www.cjr.org/editorial/empty_calories.php">Journalism and tomatoes</a></p>
+
+<p>From a May 2013 editorial in the <em>Columbia Journalism Review</em>:</p>
+
+<blockquote>
+  Perhaps journalism can learn from the mistakes of the food industry, which bred a perfectly red, flawless-looking tomato, giving the edge to looks over taste, since that’s what consumers were buying.
+</blockquote>
+
+
+<p>Redesigns focusing on <a href="http://www.niemanlab.org/2012/08/coming-in-the-side-door-the-value-of-homepages-is-shifting-from-traffic-driver-to-brand/">side door</a> web traffic will all be for naught if the product in that shiny new package languishes under clickbait headlines and  SEO-heavy ledes.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[AT&T, Acquiring DirectTV, "Vows" to Stick to FCC's Open Internet Rules for 3 Years]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/29/att-acquiring-directtv-vows-stick-fccs-open-internet-rules-3-years/"/>
+    <updated>2014-05-29T08:30:08-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/29/att-acquiring-directtv-vows-stick-fccs-open-internet-rules-3-years</id>
+    <content type="html"><![CDATA[<p><a href="http://arstechnica.com/business/2014/05/with-comcast-time-warner-merger-looming-att-will-acquire-directtv/">AT&amp;T, acquiring DirectTV, &ldquo;vows&rdquo; to stick to FCC&rsquo;s Open Internet rules for 3 years</a></p>
+
+<p>Nathan Mattise, reporting at <em>Ars Technica</em>:</p>
+
+<blockquote>
+  The two companies will demonstrate &#8220;continued commitment for three years after closing to the FCC&#8217;s Open Internet protections established in 2010, irrespective of whether the FCC re-establishes such protections for other industry participants following the DC Circuit Court of Appeals vacating those rules.&#8221;
+</blockquote>
+
+
+<p>My first draft of this post was cynical and incredulous, as I <a href="http://joeross.me/links/comcast-says-its-data-caps-arent-data-caps/">am wont to be</a>. But on second thought, it would behoove AT&amp;T to stick to it&rsquo;s &ldquo;vow,&rdquo; if for no other reason than to grease the skids for regulatory approval of the deal. But like I <a href="http://joeross.me/articles/moves-may-share-data-facebook-new-privacy-policy/">said about Moves and Facebook</a>, it&rsquo;s hard to blame a company for seeking growth.</p>
+
+<p>While the FCC&rsquo;s Open Internet rules have been struck down since they were first imposed in 2010, Comcast still abides by those rules pursuant to requirements <a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction">imposed by the FCC</a> on its purchase of NBCUniversal.</p>
+
+<p>Now that those rules have been struck down, and we&rsquo;re in limbo while a new rules proposal <a href="http://www.theverge.com/2014/5/15/5720730/how-to-comment-on-fcc-net-neutrality-proposal">goes through its comment period</a>, AT&amp;T committing to the Comcast restrictions presumes the FCC will have similar concerns about their purchase of DirecTV. So the worst case scenario for AT&amp;T is that the FCC achieves similar restrictions via the new rules, in which case AT&amp;T is already prepared. And the best case scenario is that the new rules are more lenient than the 2010 rules, and AT&amp;T is even happier.</p>
+
+<p>In fact, the only losers here are consumers. While there is some question about whether this consolidation in the connectivity/content space will cause <em>immediate</em> market overlap and thus a significant reduction in local competition, it&rsquo;s hard to see how things will get better for consumers as a result of this vertical integration over time.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comcast Says It's Data Caps Aren't Data Caps]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/23/comcast-says-its-data-caps-arent-data-caps/"/>
+    <updated>2014-05-23T08:00:42-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/23/comcast-says-its-data-caps-arent-data-caps</id>
+    <content type="html"><![CDATA[<p><a href="http://gigaom.com/2014/05/21/latest-stats-show-comcasttwc-merger-will-cap-79-of-broadband-subscribers/">Comcast says it&rsquo;s data caps aren&rsquo;t data caps</a></p>
+
+<p>Stacey Higginbotham of GigaOm:</p>
+
+<blockquote>
+  Instead the trials of 300 GB per month limits in select areas have been called both a “data threshhold,” and now a “flexible data consumption plan,” that Comcast wants people to know are in trial mode only.
+</blockquote>
+
+
+<p>And if the Comcast-Time Warner Cable merger <em>does</em> lead to data caps for 79% of U.S. broadband subscribers, that&rsquo;s not a planned abuse of market power by Comcast, just a hope to misuse de minimis competition.</p>
+
+<p>Oh wait.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zuckerberg on Survival of the Most Passionate]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/22/zuckerberg-survival-passionate/"/>
+    <updated>2014-05-22T08:00:30-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/22/zuckerberg-survival-passionate</id>
+    <content type="html"><![CDATA[<p><a href="http://youtu.be/MGsalg2f9js?t=17m6s">Mark Zuckerberg at Startup School 2013</a>:</p>
+
+<blockquote>
+  I actually think a lot of the reason why great stuff gets built is because it&#8217;s kind of irrational at the time, so it kind of selects for the people that care most about doing it.
+</blockquote>
+
+
+<p>A great point. That young man is going places.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gino Barrica on Self-hating Lawyers]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/17/gino-barrica-self-hating-lawyers/"/>
+    <updated>2014-05-17T12:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/17/gino-barrica-self-hating-lawyers</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flpno.com/2014/05/15/self-hating-lawyers-unfortunate-truth/">Gino Barrica on self-hating lawyers</a></p>
+
+<p>Gino Barrica, responding to yet another article1 cautioning against the pursuit of a law degree:</p>
+
+<blockquote>
+  See, I’m not a self-hating lawyer. I’m not one of those who hang my head in shame when people ask what I do and I’m not someone who tells people to run for the hills when they tell me they’re considering law school. Yes, I’m up to my ears in debt. But, I’m also full of pride.
+</blockquote>
+
+
+<p>Gino is a friend and classmate of mine from Temple Law and someone who, I happen to know, is more intelligent than most people. While I plan on eventually giving my own experience with the bar exam the long-form treatment it deserves, I would like to, as lawyers like to say, <a href="http://en.wikipedia.org/wiki/Incorporation_by_reference">incorporate by reference</a> all of Gino&rsquo;s thoughts on the value of a law degree to lawyers and non-lawyers alike.</p>
+
+<hr />
+
+<ol>
+<li><p>No, I didn&rsquo;t include a link to the article to which Gino&rsquo;s post responds. That is partially because Gino links to it and I want you to read his post and partially because I don&rsquo;t want to give it any SEO help. The further down in the search results such &ldquo;Abandon all hope&hellip;&rdquo; articles are, the better. ↩</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The True Julian Assange]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/14/true-julian-assange/"/>
+    <updated>2014-05-14T08:00:12-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/14/true-julian-assange</id>
+    <content type="html"><![CDATA[<p><a href="http://www.lrb.co.uk/v36/n05/andrew-ohagan/ghosting">The true Julian Assange</a></p>
+
+<p>Andrew O’Hagan reads his essay <em>Ghosting</em>, about the failed ghostwriting project during which he got to know WikiLeaks leader Julian Assange as few do. The full text is also available at the link.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Condoleezza Rice Backs Out of Rutgers Commencement]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/08/condoleezza-rice-backs-out-of-rutgers-commencement/"/>
+    <updated>2014-05-08T08:00:38-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/08/condoleezza-rice-backs-out-of-rutgers-commencement</id>
+    <content type="html"><![CDATA[<p><a href="http://bigstory.ap.org/article/condoleezza-rice-decides-against-rutgers-address">Condoleezza Rice backs out of Rutgers commencement</a></p>
+
+<blockquote>
+  The school&#8217;s board of governors had voted to pay $35,000 to the former secretary of state under President George W. Bush and national security adviser for her appearance at the May 18 ceremony.
+</blockquote>
+
+
+<p>Any question involving money, and therefore just about any question at all, boils down at some point to supply and demand. I understand schools want to attract high-profile commencement speakers. But the fact that Rutgers would offer, and Rice would accept, <em>$35,000</em>, to speak for less than an hour, is shameful.</p>
+
+<p>Schools should not be willing to supply so much money, and speakers, often wealthy, should not demand it. For a more thorough treatment of this topic, read the excellent 2011 essay &ldquo;Commencement Cash Cow&rdquo; by Pablo Eisenberg <a href="http://www.insidehighered.com/views/2011/05/09/essay_criticizing_the_practice_of_paying_graduation_speakers">at InsideHigherEd</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Internet Privacy and What Happens When You Try to Opt Out]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/07/internet-privacy-and-what-happens-when-you-try-to-opt-out/"/>
+    <updated>2014-05-07T08:00:09-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/07/internet-privacy-and-what-happens-when-you-try-to-opt-out</id>
+    <content type="html"><![CDATA[<p><a href="http://time.com/83200/privacy-internet-big-data-opt-out/">Internet Privacy and What Happens When You Try to Opt Out</a></p>
+
+<p>Janet Vertesi tried to hide her pregnancy from the internet:</p>
+
+<blockquote>
+  The myth that users will “vote with their feet” is simply wrong if opting out comes at such a high price. With social, financial and even potentially legal repercussions involved, the barriers for exit are high. This leaves users and consumers with no real choice nor a voice to express our concerns.
+</blockquote>
+
+
+<p>It&rsquo;s a fascinating article.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Moves, Contradicting Previous Statement, May Share User Data With Facebook Under New Privacy Policy]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/05/moves-may-share-data-facebook-new-privacy-policy/"/>
+    <updated>2014-05-05T15:30:06-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/05/moves-may-share-data-facebook-new-privacy-policy</id>
+    <content type="html"><![CDATA[<p>When Facebook acquired fitness tracking app Moves, the two said user data would not be commingled. But Moves&#8217; new privacy policy reverses course.</p>
+
+<!-- more -->
+
+
+<p>First, when fitness tracking app Moves was <a href="http://techcrunch.com/2014/04/24/facebook-acquires-activity-tracking-app-moves/">acquired by Facebook</a> in April, it said:</p>
+
+<blockquote>
+  For those of you that use the Moves app – the Moves experience will continue to operate as a standalone app, and there are no plans to change that or commingle data with Facebook.
+</blockquote>
+
+
+<p>CNET <a href="http://www.cnet.com/news/facebook-acquires-health-fitness-tracking-app-moves/">reported</a> almost identical language from Facebook:</p>
+
+<blockquote>
+  A spokesperson for Facebook confirmed the plans to keep the Moves app standalone and not commingle its data
+</blockquote>
+
+
+<p>Today, in an updated <a href="https://moves-app.com/privacy">privacy policy</a>, Moves said (emphasis mine):</p>
+
+<blockquote>
+  We may share information, including personally identifying information, with our Affiliates (companies that are part of our corporate groups of companies, _including but not limited to Facebook_) to help provide, understand, and improve our Services.
+</blockquote>
+
+
+<p>I suppose the updated policy doesn&rsquo;t <em>technically</em> contradict the statements by Moves and Facebook because it&rsquo;s feasible there were no plans <em>at that time</em> to commingle data with Facebook. But my initial reaction was incredulity.</p>
+
+<p>After all, the <em>Wall Street Journal</em> <a href="http://blogs.wsj.com/digits/2014/04/24/with-app-acquisition-facebook-enters-fitness-tracking-market/?mod=WSJ_WSJ_News_BlogsModule&amp;utm_source=twitterfeed&amp;utm_medium=twitter">reported</a> Moves had been downloaded 4 million times. Surely Mark Zuckerberg acquired Moves <em>primarily for</em> its ever-growing trove of user activity data. Why else?</p>
+
+<p>But none of the coverage questioned the initial statements, and I figured the companies wouldn&rsquo;t say it so plainly if it wasn&rsquo;t true. So I decided to wait and see.</p>
+
+<p>Well, I&rsquo;ve waited and seen. The lesson here is that it is wiser to pay attention only to what a company <em>does</em>, not what it <em>says</em>. If it looks like a data grab and smells like a data grab, it&rsquo;s probably a data grab. Even if, <em>especially if</em>, someone tells you it isn&rsquo;t a data grab.</p>
+
+<p>Facebook deals in data, whether its hundreds of millions of users know it or care about it or not. And Moves would be stupid not to take the money and, more importantly, the resources Facebook can bring to bear on improving the app. So a data grab isn&rsquo;t a surprise. Perhaps the &ldquo;no commingling&rdquo; language was an elegant public relations play meant to minimize privacy concerns in the press. That would seem to have worked: as of this article&rsquo;s publication I couldn&rsquo;t find a single story on the change.</p>
+
+<p>Zuckerberg&rsquo;s <a href="http://www.nytimes.com/2014/04/17/technology/the-future-of-facebook-may-not-say-facebook.html">recently stated intent</a> to grow via the acquisition and development of discreet apps and services raises another interesting issue. To quit Facebook, it may not be enough anymore to, well, quit Facebook. If I closed my Facebook account today, the company could still gather data about me for as long as I use Moves. Facebook has a growing <a href="http://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook">list of acquisitions</a> under its belt, so that concern is likely to increase with time.</p>
+
+<p>This example of corporate self-contradiction is a good reminder: Always assume your data is a valuable and transferable commodity in the eyes and on the servers of the apps and services you use. Some people are deterred by that fact, while others are not. There is no right or wrong answer, just a continuum of personal comfort and preference.</p>
+
+<p>While I wish the companies had been more forthright from the beginning, I won&rsquo;t stop using Moves. I have personally always been relatively open in sharing data in exchange for convenience and utility. But that doesn&rsquo;t mean I&rsquo;m not alarmed by the increasing difficulty of using the internet and related apps and services for those who disagree with my position on openness.</p>
+
+<p>Share your perspective via email at joe@joeross.me, on <a href="http://twitter.com/joeross">Twitter</a> or in the comments.</p>
+]]></content>
+  </entry>
   
 </feed>

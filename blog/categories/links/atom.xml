@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Links | Joe Ross]]></title>
+  <link href="http://joeross.github.io/blog/categories/links/atom.xml" rel="self"/>
+  <link href="http://joeross.github.io/"/>
+  <updated>2014-07-30T12:25:59-04:00</updated>
+  <id>http://joeross.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook Is Not Free]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/22/facebook-is-not-free/"/>
+    <updated>2014-07-22T15:51:41-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/22/facebook-is-not-free</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1wQ7jYw">Facebook is not free</a></p>
+
+<p>If you use Facebook, this article is a must-read. It’s now common knowledge Facebook is always watching and analyzing how you use the service. But the breadth and depth of the company’s participation in the data brokering economy is staggering. The worst part? You literally signed up for it.</p>
+
+<p>Facebook obviously doesn’t charge its users money, but the mere act of creating a profile affirmatively grants the company total access and usage rights over everything you do on the site. It even shares its data about you with data brokerage firms whose business model is monetizing you.</p>
+
+<p>This is all stuff I have personally known and accepted for a long time, but as the ability to easily aggregate dossiers on anyone and everyone increases, it’s more important than ever to educate yourself and those you care about. Facebook is not free, and in fact it’s worth asking whether the price most people pay by clicking a harmless-looking “I agree” button is really worth it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why We Don't Speak Up at Work]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/16/why-we-dont-speak-up-at-work/"/>
+    <updated>2014-07-16T09:28:30-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/16/why-we-dont-speak-up-at-work</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1roiuqV">Why we don&rsquo;t speak up at work</a></p>
+
+<p>This piece by Claire Lew at Signal v. Noise doesn’t exactly fit into my general topics of law, technology and design, but it’s so important I that feel obligated to share it. I mention in my article about the role of metrics in editorial strategy that I’ve been present for some poor decisions and didn’t speak my mind.</p>
+
+<p>Claire’s post explains exactly why I failed to speak up, and it’s an important read whether you’re a manager or not. Unlike more navel-gazing, hand-wavy articles in the management advice realm, she actually offers some practical advice.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[For the NSA, We Are the Haystack]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/06/for-the-nsa-we-are-the-haystack/"/>
+    <updated>2014-07-06T18:38:22-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/06/for-the-nsa-we-are-the-haystack</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1xyAP7v">For the NSA, we are the haystack</a></p>
+
+<p>Barton Gellman, Julie Tate and Ashkan Soltani, reporting at the Washington Post:</p>
+
+<blockquote>
+  Nine of 10 account holders found in a large cache of intercepted conversations, which former NSA contractor Edward Snowden provided in full to The Post, were not the intended surveillance targets but were caught in a net the agency had cast for somebody else.
+</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook COO Sandberg Apologizes for Emotional Contagion Experiment]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/04/facebook-coo-sandberg-apologizes-for-emotional-contagion-experiment/"/>
+    <updated>2014-07-04T08:19:56-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/04/facebook-coo-sandberg-apologizes-for-emotional-contagion-experiment</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1riQbfR">Facebook COO Sandberg apologizes for emotional contagion experiment</a></p>
+
+<ol type="a">
+<li>Jai Krishna, reporting on the reaction of Facebook Chief Operating Officer Sheryl Sandberg to the outcry over the company’s experiment on the emotions of nearly 700,000 unwitting users:</li>
+</ol>
+
+
+<blockquote>
+  We take privacy and security at Facebook really seriously because that is something that allows people to share” opinions and emotions, Sandberg said.
+</blockquote>
+
+
+<p>The telling part about Sandberg’s reaction is that those who take privacy and security seriously don’t have to say very often, if at all.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podcast of the Week: This Week in Law]]></title>
+    <link href="http://joeross.github.io/blog/2014/07/03/podcast-of-the-week-this-week-in-law/"/>
+    <updated>2014-07-03T08:08:23-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/07/03/podcast-of-the-week-this-week-in-law</id>
+    <content type="html"><![CDATA[<p><a href="http://twit.tv/twil">Podcast of the Week: This Week in Law</a></p>
+
+<p>When it comes to my own website, editorial calendars always give way to real life. I&rsquo;m back with the latest in a series that would be more accurately called the &ldquo;Podcast of the Month.&rdquo; I really need to step it up with these, as I still have about 70 of them to which I listen with some regularity.</p>
+
+<p>I&rsquo;m featuring This Week In Law, a podcast covering technology, privacy, intellectual property and other areas of the law relevant to the internet and its users, for a couple of reasons. The first is that the most recent episode (embedded below), entitled <a href="http://twit.tv/show/this-week-in-law/265">Monkeys, Ducks and Unicorns</a>, discusses the Aereo case as well as a recent Fourth Amendment case about cell phones, both decided by the Supreme Court in June.</p>
+
+<p>The second reason I&rsquo;m featuring This Week in Law is because I have probably listened to more hours of this podcast than any other. It got me through law school by education, entertaining and inspiring me, even while I was studying far less interesting areas of the law. The voices of Denise Howell and Evan Brown, in a way that only happens on the internet, more familiar to me than some of my longest friends' voices.</p>
+
+<p>Subscribe to This Week In Law in <a href="https://itunes.apple.com/us/podcast/this-week-in-law-mp3/id202795271">iTunes</a>, <a href="http://pcasts.in/twl">Pocket Casts</a> or <a href="http://feeds.twit.tv/twil.xml">RSS</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

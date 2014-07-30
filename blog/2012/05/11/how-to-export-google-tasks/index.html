@@ -1,0 +1,326 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>How to Export Google Tasks - Joe Ross</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="Welcome. I hope the article below helps you. Also consider adding the RSS feed to your reader or saying hello on Twitter or Google+. Lately I have &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://joeross.github.io/blog/2012/05/11/how-to-export-google-tasks">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Joe Ross" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Joe Ross</a></h1>
+  
+    <h2>Joe tries the static blogging thing!</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:joeross.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">How to Export Google Tasks</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-11T08:16:00-04:00" pubdate data-updated="true">May 11<sup>th</sup>, 2012</time>
+        
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://joeross.github.io">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><em>Welcome. I hope the article below helps you. Also consider adding the <a href="http://joeross.me/feed/">RSS feed</a> to your reader or saying hello on <a href="http://twitter.com/joeross">Twitter</a> or <a href="http://google.com/+joeross">Google+</a>.</em></p>
+
+<hr />
+
+<p>Lately I have been trying out <a href="http://smarterware.org">Gina Trapani&rsquo;s</a> wonderfully-simple <a href="http://todotxt.com">todo.txt</a>. There&rsquo;s something beautiful about updating my todo list from the command line, syncing it to <a href="http://dropbox.com">Dropbox</a>, and managing on the road with the <a href="http://www.todotxt.com/">Android app</a>. It&rsquo;s minimal, elegant, and a tool that solves one problem really well. But I&rsquo;m not sure it will work out for me in the long-run. I&rsquo;m still a big fan of <a href="https://mail.google.com/mail/help/tasks/">Google Tasks</a>, first introduce <a href="http://gmailblog.blogspot.com/2008/12/new-in-labs-tasks.html">in 2008</a>. I want a way to own my data via todo.txt but maintain the convenience of Google Tasks. I didn&rsquo;t quite find it, but I got close, and I at least got a copy of my Tasks data from Google&rsquo;s servers.</p>
+
+<h2>Todo.txt or not todo.txt?</h2>
+
+<p>I live inside my Gmail account for much of the day, and Google Tasks has served me very well for many years. The ability to associate an email with a new task is particularly compelling, and always helps me stay on top of mid-to-long-term response requirements. I&rsquo;ve been enjoying the <a href="https://play.google.com/store/apps/details?id=ch.teamtasks.tasks">Tasks Free</a> app for Android this week because it uses Google&rsquo;s Ice Cream Sandwich design language and, like todo.txt, is a simple tool that solves one problem very well.</p>
+
+<p>Unlike todo.txt, however, Google Tasks is easily accessed from the browser, either in Gmail, in a <a href="https://mail.google.com/tasks/canvas">full-page view</a>, or any number of <a href="https://chrome.google.com/webstore/search/%22Google%20Tasks%22?utm_source=chrome-ntp-icon">Chrome addons</a>. As much I like Trapani&rsquo;s philosophy that you should own your data&mdash;that&rsquo;s why todo.txt stores your lists in your Dropbox on all of your computers versus Google Tasks&#8217; only storing your lists on Google servers&mdash;getting it there isn&rsquo;t terribly <em>convenient</em>.</p>
+
+<h2>Best of both worlds?</h2>
+
+<p>There&rsquo;s a compromise insofar as you can install an addon to todo.txt that lets you manually sync to Google Tasks (<a href="https://github.com/ginatrapani/todo.txt-cli/wiki/Todo.sh-Add-on-Directory#wiki-google">get it here</a>), but the geek force isn&rsquo;t strong enough with me to get it working. It involves creating and executing an additional script (I think it&rsquo;s Python, but I&rsquo;m not even sure) in a newly-created hidden folder within your todo.txt folder.</p>
+
+<p>Yeah.</p>
+
+<p>I&rsquo;m not going to give up on todo.txt in general and the Tasks addon specifically because I love tinkering, even with code I know little or nothing about. But even <em>installing</em> todo.txt may be intimidating to those unused to the command line. I suspect I&rsquo;ll come back to it eventually, but for now I&rsquo;ll be using Google Tasks, a reflection on me and not on todo.txt&mdash;it&rsquo;s an amazing app that targets a certain group of more saavy users and serves them extremely well.</p>
+
+<p>If you spend any time in a terminal window or use launchers like <a href="http://qsapp.com">Quicksilver for Mac</a>, todo.txt is the easiest way to manipulate your tasks. I don&rsquo;t spend that much time doing either of those things. Like I said, I spend most of my time in Gmail or on my Android phone.</p>
+
+<h2>Can I use Google Tasks <em>and</em> own my data?</h2>
+
+<p><em>But</em> I <em>do</em> like the idea of owning my data. So I wanted a way to own my Google Tasks data. If I can&rsquo;t sync it to Dropbox, can&rsquo;t I <em>at least</em> periodically download a history of what I&rsquo;ve put in there?</p>
+
+<p>A quick search for &ldquo;export Google tasks&rdquo; turned up <a href="http://dataliberation.blogspot.com/2011/08/introducing-google-tasks-porter.html">this blog post</a> from Google&rsquo;s <a href="http://www.dataliberation.org/">Data Liberation Front</a>, the team responsible for creating the company&rsquo;s data export suite, <a href="https://www.google.com/takeout/">Google Takeout</a>.</p>
+
+<p>The <a href="https://google-tasks-porter.appspot.com/">Google Tasks Porter</a> is supposed to allow you to pull your Tasks data down from Google&rsquo;s server, or import data from other productivity tools. However, whenever I try to use it to take a snapshot of my tasks, I get the message:</p>
+
+<blockquote>
+  `ERROR: Snapshot creation process failed unexpectedly.`
+</blockquote>
+
+
+<p>This error made me sad. It could be that I have so many current/completed/deleted tasks (over 100) that the exporter just chokes on all the data. But then again I&rsquo;ve never thought of &ldquo;too much data&rdquo; as a problem for Google. Discouraged but not defeated, I went to Google Task Porter&rsquo;s open source <a href="http://code.google.com/p/google-tasks-porter/">Google Code page</a> to see if others had the same problem.</p>
+
+<p><a href="http://code.google.com/p/google-tasks-porter/issues/detail?id=14">They did</a>.</p>
+
+<h2>The solution: Google Tasks Backup</h2>
+
+<p>Lucky for me (and you), fellow Google Tasks user &ldquo;Julie&rdquo; <a href="http://code.google.com/p/google-tasks-porter/issues/detail?id=14#c11">decided</a> to make her own version of the tool, and <a href="https://tasks-backup.appspot.com/">Google Tasks Backup</a> was born.</p>
+
+<p>The tool, which looks a little like Google&rsquo;s version, just with (<em>much</em>) more explanation and some more options, is quick and easy to use. Authorize it by clicking a button, confirm, and select your desired output format. You can limit the export to include only compelted tasks, only deleted tasks, or those you have &ldquo;cleared&rdquo; from your lists after completion by clicking &ldquo;Clear completed&rdquo; in the Google Tasks interface. Output options include Outlook CSV, iCal ICS, raw CSV, raw CSV with date formatting, or an email formatted for inclusion in your <a href="http://www.rememberthemilk.com/">Remember the Milk</a> account.</p>
+
+<p>You can also just display the output in HTML as a generated web page. This is what I did, clipping the resulting web page into my <a href="http://evernote.com">Evernote</a> account for permanent storage. Alternatively, you could save the web page as HTML to your hard drive or your Dropbox account, or copy and paste it into another piece of software, like a <a href="https://drive.google.com/">Google Doc</a>. The point is that now you have your Google Tasks history.</p>
+
+<p>I don&rsquo;t know of any way to automate this or any other export process for Google Tasks, but maybe someday automation service <a href="http://ifttt.com/">ifttt</a> (&ldquo;if this, then that&rdquo;) will plug into the Google Tasks API (released, coincidentally, <a href="http://googleappsdeveloper.blogspot.com/2011/05/getting-organized-with-tasks-api.html">one year ago today!</a>) to work its magic for users of Google Tasks. Maybe Google will even fix their own exporter.</p>
+
+<p>&lt;</p>
+
+<p>p>For now though, I&rsquo;m grateful for <a href="https://tasks-backup.appspot.com/">Google Tasks Backup</a>, and I&rsquo;ll let you know if I ever find a good solution to syncing it with <a href="http://todotxt.com">todo.txt</a>.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">joeross</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-11T08:16:00-04:00" pubdate data-updated="true">May 11<sup>th</sup>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/articles/'>articles</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://joeross.github.io/blog/2012/05/11/how-to-export-google-tasks/" data-via="joeross" data-counturl="http://joeross.github.io/blog/2012/05/11/how-to-export-google-tasks/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/05/09/this-is-my-new-blog/" title="Previous Post: This is my new blog.">&laquo; This is my new blog.</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2012/05/12/farhad-manjoo-on-what-eduardo-saverin-owes-the-us/" title="Next Post: Farhad Manjoo on what Eduardo Saverin owes the US">Farhad Manjoo on what Eduardo Saverin owes the US &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/07/29/larry-lessig-fighting-for-campaign-finance-reform-with-mayday-pac/">Larry Lessig Fighting for Campaign Finance Reform With Mayday Pac</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/07/22/facebook-is-not-free/">Facebook Is Not Free</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/07/16/why-we-dont-speak-up-at-work/">Why We Don't Speak Up at Work</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/07/06/for-the-nsa-we-are-the-haystack/">For the NSA, We Are the Haystack</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/07/04/facebook-coo-sandberg-apologizes-for-emotional-contagion-experiment/">Facebook COO Sandberg Apologizes for Emotional Contagion Experiment</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/http://google.com/+joeross?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'joeross-static';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://joeross.github.io/blog/2012/05/11/how-to-export-google-tasks/';
+        var disqus_url = 'http://joeross.github.io/blog/2012/05/11/how-to-export-google-tasks/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
