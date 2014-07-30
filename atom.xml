@@ -4,7 +4,7 @@
   <title><![CDATA[Joe Ross]]></title>
   <link href="http://joeross.github.io/atom.xml" rel="self"/>
   <link href="http://joeross.github.io/"/>
-  <updated>2014-07-30T12:25:59-04:00</updated>
+  <updated>2014-07-30T13:55:20-04:00</updated>
   <id>http://joeross.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,23 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Larry Lessig Fighting for Campaign Finance Reform With Mayday Pac]]></title>
+    <title type="html"><![CDATA[Larry Lessig Fighting for Campaign Finance Reform With Mayday PAC]]></title>
     <link href="http://joeross.github.io/blog/2014/07/29/larry-lessig-fighting-for-campaign-finance-reform-with-mayday-pac/"/>
     <updated>2014-07-29T00:00:00-04:00</updated>
     <id>http://joeross.github.io/blog/2014/07/29/larry-lessig-fighting-for-campaign-finance-reform-with-mayday-pac</id>
-    <content type="html"><![CDATA[<hr />
-
-<p>layout: post
-title: Larry Lessig fighting for campaign finance reform with Mayday PAC
-date: 2014-07-29
-category: links
-tags: law, politics, campaign finance, lessig
-permalink:
-published: true</p>
-
-<h1>external-url: <a href="http://nytimes.com/2014/07/29/us/spending-big-to-fight-big-donors.html">http://nytimes.com/2014/07/29/us/spending-big-to-fight-big-donors.html</a></h1>
-
-<p><a href="http://nytimes.com/2014/07/29/us/spending-big-to-fight-big-donors.html">Larry Lessig fighting for campaign finance reform with Mayday PAC
+    <content type="html"><![CDATA[<p><a href="http://nytimes.com/2014/07/29/us/spending-big-to-fight-big-donors.html">Larry Lessig fighting for campaign finance reform with Mayday PAC
 </a></p>
 
 <p>Lawrence Lessig&rsquo;s <a href="https://mayday.us">Mayday PAC</a> is using the very system it decries to attempt to bring that system down. In other words, Lessig et al are hijacking the virus (the influence of big donors on American politics via election contributions) to deliver the vaccine (funding for politicians committed to proposals which would limit big political contributions).</p>
