@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: articles | Joe Ross]]></title>
+  <title><![CDATA[Category: Articles | Joe Ross]]></title>
   <link href="http://joeross.github.io/blog/categories/articles/atom.xml" rel="self"/>
   <link href="http://joeross.github.io/"/>
-  <updated>2014-08-02T03:53:53-04:00</updated>
+  <updated>2014-08-03T14:00:59-04:00</updated>
   <id>http://joeross.github.io/</id>
   <author>
     <name><![CDATA[Joe Ross]]></name>
@@ -98,7 +98,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Moves, contradicting previous statement, may share user data with Facebook under new privacy policy]]></title>
+    <title type="html"><![CDATA[Moves, Contradicting Previous Statement, May Share User Data With Facebook Under New Privacy Policy]]></title>
     <link href="http://joeross.github.io/blog/2014/05/05/moves-may-share-data-facebook-new-privacy-policy/"/>
     <updated>2014-05-05T15:30:06-04:00</updated>
     <id>http://joeross.github.io/blog/2014/05/05/moves-may-share-data-facebook-new-privacy-policy</id>
@@ -149,7 +149,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Down the aggregation rabbit hole]]></title>
+    <title type="html"><![CDATA[Down the Aggregation Rabbit Hole]]></title>
     <link href="http://joeross.github.io/blog/2014/04/10/aggregation-rabbit-hole/"/>
     <updated>2014-04-10T09:00:19-04:00</updated>
     <id>http://joeross.github.io/blog/2014/04/10/aggregation-rabbit-hole</id>
@@ -179,7 +179,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[NPEs planning patent litigation may be safer as private companies]]></title>
+    <title type="html"><![CDATA[NPEs Planning Patent Litigation May Be Safer as Private Companies]]></title>
     <link href="http://joeross.github.io/blog/2014/04/06/npes-planning-patent-litigation-may-be-safer-as-private-companies/"/>
     <updated>2014-04-06T13:03:28-04:00</updated>
     <id>http://joeross.github.io/blog/2014/04/06/npes-planning-patent-litigation-may-be-safer-as-private-companies</id>
@@ -243,7 +243,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Reading List: Law reviews, loans, novels and Crimea]]></title>
+    <title type="html"><![CDATA[Reading List: Law Reviews, Loans, Novels and Crimea]]></title>
     <link href="http://joeross.github.io/blog/2014/03/22/reading-list-law-reviews-loans-novels-crimea/"/>
     <updated>2014-03-22T14:04:40-04:00</updated>
     <id>http://joeross.github.io/blog/2014/03/22/reading-list-law-reviews-loans-novels-crimea</id>
