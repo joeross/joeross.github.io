@@ -4,7 +4,7 @@
   <title><![CDATA[Joe Ross]]></title>
   <link href="http://joeross.github.io/atom.xml" rel="self"/>
   <link href="http://joeross.github.io/"/>
-  <updated>2014-08-18T20:13:39-04:00</updated>
+  <updated>2014-08-18T20:19:34-04:00</updated>
   <id>http://joeross.github.io/</id>
   <author>
     <name><![CDATA[Joe Ross]]></name>
@@ -322,26 +322,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Comcast Says It's Data Caps Aren't Data Caps]]></title>
-    <link href="http://joeross.github.io/blog/2014/05/23/comcast-says-its-data-caps-arent-data-caps/"/>
-    <updated>2014-05-23T08:00:42-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/05/23/comcast-says-its-data-caps-arent-data-caps</id>
-    <content type="html"><![CDATA[<p><a href="http://gigaom.com/2014/05/21/latest-stats-show-comcasttwc-merger-will-cap-79-of-broadband-subscribers/">Comcast says it&rsquo;s data caps aren&rsquo;t data caps</a></p>
-
-<p>Stacey Higginbotham of GigaOm:</p>
-
-<blockquote>
-  Instead the trials of 300 GB per month limits in select areas have been called both a “data threshhold,” and now a “flexible data consumption plan,” that Comcast wants people to know are in trial mode only.
-</blockquote>
-
-
-<p>And if the Comcast-Time Warner Cable merger <em>does</em> lead to data caps for 79% of U.S. broadband subscribers, that&rsquo;s not a planned abuse of market power by Comcast, just a hope to misuse de minimis competition.</p>
-
-<p>Oh wait.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Zuckerberg on Survival of the Most Passionate]]></title>
     <link href="http://joeross.github.io/blog/2014/05/22/zuckerberg-survival-passionate/"/>
     <updated>2014-05-22T08:00:30-04:00</updated>
@@ -477,6 +457,21 @@
 <p>While I wish the companies had been more forthright from the beginning, I won&rsquo;t stop using Moves. I have personally always been relatively open in sharing data in exchange for convenience and utility. But that doesn&rsquo;t mean I&rsquo;m not alarmed by the increasing difficulty of using the internet and related apps and services for those who disagree with my position on openness.</p>
 
 <p>Share your perspective via email at joe@joeross.me, on <a href="http://twitter.com/joeross">Twitter</a> or in the comments.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Huffduffer: Custom Podcast Feeds]]></title>
+    <link href="http://joeross.github.io/blog/2014/05/04/huffduffer-custom-podcast-feeds/"/>
+    <updated>2014-05-04T09:00:55-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/05/04/huffduffer-custom-podcast-feeds</id>
+    <content type="html"><![CDATA[<p><a href="http://huffduffer.com/">Huffduffer: custom podcast feeds</a></p>
+
+<p>Huffduffer is a neat service for podcast geeks. Sign up and install the bookmarklet to add any compatible audio file to your feed. It&rsquo;s perfect for people who want to piece together a feed of specific episodes without subscribing to every podcast they find.</p>
+
+<p>For example, <a href="http://huffduffer.com/joeross">my own Huffduffer feed</a> contains a recent episode of <em>All Tech Considered</em> by NPR, several recent oral arguments from the Supreme Court (complete with convenient links to PDF transcripts) and more.</p>
+
+<p>And if you&rsquo;re a geek, the <a href="http://huffduffer.com/popular">Huffduffer Popular feed</a> is a great way to find out what other geeks are enjoying.</p>
 ]]></content>
   </entry>
   
