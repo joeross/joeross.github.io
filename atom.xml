@@ -4,7 +4,7 @@
   <title><![CDATA[Joe Ross]]></title>
   <link href="http://joeross.github.io/atom.xml" rel="self"/>
   <link href="http://joeross.github.io/"/>
-  <updated>2014-10-13T08:32:26-04:00</updated>
+  <updated>2014-10-13T08:58:36-04:00</updated>
   <id>http://joeross.github.io/</id>
   <author>
     <name><![CDATA[Joe Ross]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Listen: The Lawfare Podcast Discusses Zombies in the Context of International Law and National Security]]></title>
+    <link href="http://joeross.github.io/blog/2014/09/03/lawfare-podcast-zombies/"/>
+    <updated>2014-09-03T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/09/03/lawfare-podcast-zombies</id>
+    <content type="html"><![CDATA[<p><a href="http://www.lawfareblog.com/2014/08/lawfare-podcast-episode-89-bone-crushing-zombie-action/">Listen: The Lawfare Podcast discusses zombies in the context of international law and national security</a></p>
+
+<p>If you’ve ever wondered how international law, laws of war and national security policy might be applied to a zombie apocalypse scenario, listen to episode 89 of The Lawfare Podcast.</p>
+
+<p>The law and policy discussed are real and interesting but the tongue-in-cheek analysis is wonderfully entertaining.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Listen: The Lawfare Podcast Discusses Zombies in the Context of International Law and National Security]]></title>
+    <link href="http://joeross.github.io/blog/2014/09/03/7th-circuit-gay-marriage/"/>
+    <updated>2014-09-03T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/09/03/7th-circuit-gay-marriage</id>
+    <content type="html"><![CDATA[<p><a href="http://ift.tt/1ptSzdx">7th Circuit strikes down gay marriage bans in Wisconsin and Indiana</a></p>
+
+<p>The legal momentum favors universal application of the fundamental right of two consenting adults to marry, but that doesn’t make each ruling any less exciting.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How Law Firms Can Innovate by Providing Third-party Services to Other Law Firms]]></title>
@@ -413,75 +437,6 @@
 <p>Any question involving money, and therefore just about any question at all, boils down at some point to supply and demand. I understand schools want to attract high-profile commencement speakers. But the fact that Rutgers would offer, and Rice would accept, <em>$35,000</em>, to speak for less than an hour, is shameful.</p>
 
 <p>Schools should not be willing to supply so much money, and speakers, often wealthy, should not demand it. For a more thorough treatment of this topic, read the excellent 2011 essay &ldquo;Commencement Cash Cow&rdquo; by Pablo Eisenberg <a href="http://www.insidehighered.com/views/2011/05/09/essay_criticizing_the_practice_of_paying_graduation_speakers">at InsideHigherEd</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Internet Privacy and What Happens When You Try to Opt Out]]></title>
-    <link href="http://joeross.github.io/blog/2014/05/07/internet-privacy-and-what-happens-when-you-try-to-opt-out/"/>
-    <updated>2014-05-07T08:00:09-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/05/07/internet-privacy-and-what-happens-when-you-try-to-opt-out</id>
-    <content type="html"><![CDATA[<p><a href="http://time.com/83200/privacy-internet-big-data-opt-out/">Internet Privacy and What Happens When You Try to Opt Out</a></p>
-
-<p>Janet Vertesi tried to hide her pregnancy from the internet:</p>
-
-<blockquote>
-  The myth that users will “vote with their feet” is simply wrong if opting out comes at such a high price. With social, financial and even potentially legal repercussions involved, the barriers for exit are high. This leaves users and consumers with no real choice nor a voice to express our concerns.
-</blockquote>
-
-
-<p>It&rsquo;s a fascinating article.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Moves, Contradicting Previous Statement, May Share User Data With Facebook Under New Privacy Policy]]></title>
-    <link href="http://joeross.github.io/blog/2014/05/05/moves-may-share-data-facebook-new-privacy-policy/"/>
-    <updated>2014-05-05T15:30:06-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/05/05/moves-may-share-data-facebook-new-privacy-policy</id>
-    <content type="html"><![CDATA[<p>When Facebook acquired fitness tracking app Moves, the two said user data would not be commingled. But Moves&#8217; new privacy policy reverses course.</p>
-
-<!-- more -->
-
-
-<p>First, when fitness tracking app Moves was <a href="http://techcrunch.com/2014/04/24/facebook-acquires-activity-tracking-app-moves/">acquired by Facebook</a> in April, it said:</p>
-
-<blockquote>
-  For those of you that use the Moves app – the Moves experience will continue to operate as a standalone app, and there are no plans to change that or commingle data with Facebook.
-</blockquote>
-
-
-<p>CNET <a href="http://www.cnet.com/news/facebook-acquires-health-fitness-tracking-app-moves/">reported</a> almost identical language from Facebook:</p>
-
-<blockquote>
-  A spokesperson for Facebook confirmed the plans to keep the Moves app standalone and not commingle its data
-</blockquote>
-
-
-<p>Today, in an updated <a href="https://moves-app.com/privacy">privacy policy</a>, Moves said (emphasis mine):</p>
-
-<blockquote>
-  We may share information, including personally identifying information, with our Affiliates (companies that are part of our corporate groups of companies, _including but not limited to Facebook_) to help provide, understand, and improve our Services.
-</blockquote>
-
-
-<p>I suppose the updated policy doesn&rsquo;t <em>technically</em> contradict the statements by Moves and Facebook because it&rsquo;s feasible there were no plans <em>at that time</em> to commingle data with Facebook. But my initial reaction was incredulity.</p>
-
-<p>After all, the <em>Wall Street Journal</em> <a href="http://blogs.wsj.com/digits/2014/04/24/with-app-acquisition-facebook-enters-fitness-tracking-market/?mod=WSJ_WSJ_News_BlogsModule&amp;utm_source=twitterfeed&amp;utm_medium=twitter">reported</a> Moves had been downloaded 4 million times. Surely Mark Zuckerberg acquired Moves <em>primarily for</em> its ever-growing trove of user activity data. Why else?</p>
-
-<p>But none of the coverage questioned the initial statements, and I figured the companies wouldn&rsquo;t say it so plainly if it wasn&rsquo;t true. So I decided to wait and see.</p>
-
-<p>Well, I&rsquo;ve waited and seen. The lesson here is that it is wiser to pay attention only to what a company <em>does</em>, not what it <em>says</em>. If it looks like a data grab and smells like a data grab, it&rsquo;s probably a data grab. Even if, <em>especially if</em>, someone tells you it isn&rsquo;t a data grab.</p>
-
-<p>Facebook deals in data, whether its hundreds of millions of users know it or care about it or not. And Moves would be stupid not to take the money and, more importantly, the resources Facebook can bring to bear on improving the app. So a data grab isn&rsquo;t a surprise. Perhaps the &ldquo;no commingling&rdquo; language was an elegant public relations play meant to minimize privacy concerns in the press. That would seem to have worked: as of this article&rsquo;s publication I couldn&rsquo;t find a single story on the change.</p>
-
-<p>Zuckerberg&rsquo;s <a href="http://www.nytimes.com/2014/04/17/technology/the-future-of-facebook-may-not-say-facebook.html">recently stated intent</a> to grow via the acquisition and development of discreet apps and services raises another interesting issue. To quit Facebook, it may not be enough anymore to, well, quit Facebook. If I closed my Facebook account today, the company could still gather data about me for as long as I use Moves. Facebook has a growing <a href="http://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook">list of acquisitions</a> under its belt, so that concern is likely to increase with time.</p>
-
-<p>This example of corporate self-contradiction is a good reminder: Always assume your data is a valuable and transferable commodity in the eyes and on the servers of the apps and services you use. Some people are deterred by that fact, while others are not. There is no right or wrong answer, just a continuum of personal comfort and preference.</p>
-
-<p>While I wish the companies had been more forthright from the beginning, I won&rsquo;t stop using Moves. I have personally always been relatively open in sharing data in exchange for convenience and utility. But that doesn&rsquo;t mean I&rsquo;m not alarmed by the increasing difficulty of using the internet and related apps and services for those who disagree with my position on openness.</p>
-
-<p>Share your perspective via email at joe@joeross.me, on <a href="http://twitter.com/joeross">Twitter</a> or in the comments.</p>
 ]]></content>
   </entry>
   
