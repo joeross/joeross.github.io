@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Links | Joe Ross]]></title>
   <link href="http://joeross.github.io/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://joeross.github.io/"/>
-  <updated>2014-10-13T08:58:36-04:00</updated>
+  <updated>2014-10-14T23:06:19-04:00</updated>
   <id>http://joeross.github.io/</id>
   <author>
     <name><![CDATA[Joe Ross]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Systemic Failure of Modern Hiring Practices]]></title>
+    <link href="http://joeross.github.io/blog/2014/09/13/failure-modern-hiring/"/>
+    <updated>2014-09-13T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/09/13/failure-modern-hiring</id>
+    <content type="html"><![CDATA[<p><a href="http://qz.com/258066/this-is-why-you-dont-hire-good-developers/">The systemic failure of modern hiring practices</a></p>
+
+<p>Laurie Voss, in a piece about technical hiring that is easily applied to the legal field and hiring more generally, on asking applicants questions to which they almost certainly don’t know the answer:</p>
+
+<blockquote><p>The weakest candidates will try to waffle or make wild guesses. This is a terrible sign, firstly because it never works, and secondly because they thought that it would. [ &hellip; ] Strong candidates say “I don’t know” as soon as they hit their limit, and may start asking questions. The very strongest candidates say “but if I had to guess” and then attempt to extrapolate.</p></blockquote>
+
+<p>Yup. And what’s more, most interviewers or hiring managers who ask such counterproductive questions are actually looking for the waffles and the wild guesses. They invariably want to see someone who can obfuscate without sacrificing an air of omniscience.</p>
+
+<p>It’s an astounding feat of self-sabotage, and it makes it difficult for the truly intelligent among us (like myself, all arrogance aside…) to make an impression among the din of bloviating thought-sheep.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Privacy Advocates, Tech Companies Nudge Congress to Protect ‘abandoned’ E-mails]]></title>
+    <link href="http://joeross.github.io/blog/2014/09/12/privacy-advocates-tech-companies-congress-abandoned-emails/"/>
+    <updated>2014-09-12T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/09/12/privacy-advocates-tech-companies-congress-abandoned-emails</id>
+    <content type="html"><![CDATA[<p><a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/11/privacy-advocates-tech-companies-nudge-congress-to-protect-abandoned-e-mails/">Privacy advocates, tech companies nudge Congress to protect ‘abandoned’ e-mails</a></p>
+
+<p>The Email Privacy Act would prevent the government from using mere administrative subpoenas to access email older than 180 days. The distinction, included in the <a href="http://en.wikipedia.org/wiki/Stored_Communications_Act">Stored Communications Act </a>, was based on the need for users to access and download email from a service provider&rsquo;s servers. The logic was that if someone hadn&rsquo;t downloaded their email in six months or more, they had effectively abandoned it.</p>
+
+<p>Of course, things are no longer that simple in the age of constant synchronization and push notifications on mobile devices.</p>
+
+<p>Previously:</p>
+
+<ul>
+<li><a href="http://constantandendless.com/links/grover-norquist-on-proposed-update-to-electronic/">Grover Norquist on proposed update to Electronic Communications Privacy Act</a></li>
+<li><a href="http://constantandendless.com/links/ecpa-amendment-would-require-warrant-even-for-email/">ECPA amendment would require warrant even for email older than 6 months</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7th Circuit Strikes Down Gay Marriage Bans in Wisconsin and Indiana]]></title>
+    <link href="http://joeross.github.io/blog/2014/09/05/7th-circuit-gay-marriage/"/>
+    <updated>2014-09-05T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/09/05/7th-circuit-gay-marriage</id>
+    <content type="html"><![CDATA[<p><a href="http://bigstory.ap.org/article/court-rules-against-gay-marriage-bans-2-states">7th Circuit strikes down gay marriage bans in Wisconsin and Indiana</a></p>
+
+<p>The legal momentum favors universal application of the fundamental right of two consenting adults to marry, but that doesn’t make each ruling any less exciting.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Listen: The Lawfare Podcast Discusses Zombies in the Context of International Law and National Security]]></title>
@@ -23,17 +72,6 @@
 <p>If you’ve ever wondered how international law, laws of war and national security policy might be applied to a zombie apocalypse scenario, listen to episode 89 of The Lawfare Podcast.</p>
 
 <p>The law and policy discussed are real and interesting but the tongue-in-cheek analysis is wonderfully entertaining.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Listen: The Lawfare Podcast Discusses Zombies in the Context of International Law and National Security]]></title>
-    <link href="http://joeross.github.io/blog/2014/09/03/7th-circuit-gay-marriage/"/>
-    <updated>2014-09-03T00:00:00-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/09/03/7th-circuit-gay-marriage</id>
-    <content type="html"><![CDATA[<p><a href="http://ift.tt/1ptSzdx">7th Circuit strikes down gay marriage bans in Wisconsin and Indiana</a></p>
-
-<p>The legal momentum favors universal application of the fundamental right of two consenting adults to marry, but that doesn’t make each ruling any less exciting.</p>
 ]]></content>
   </entry>
   
@@ -50,34 +88,6 @@
 <p>If you support the cause, be heartened: Lessig <a href="http://www.npr.org/blogs/alltechconsidered/2013/09/27/226834651/record-label-picks-a-fight-over-copyright-with-the-wrong-guy">likes to fight</a>, and is good at it.</p>
 
 <p>If you don&rsquo;t support the cause, it&rsquo;s probably time to start taking Mayday seriously. Your candidate&rsquo;s job may depend on it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Facebook Is Not Free]]></title>
-    <link href="http://joeross.github.io/blog/2014/07/22/facebook-is-not-free/"/>
-    <updated>2014-07-22T15:51:41-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/07/22/facebook-is-not-free</id>
-    <content type="html"><![CDATA[<p><a href="http://ift.tt/1wQ7jYw">Facebook is not free</a></p>
-
-<p>If you use Facebook, this article is a must-read. It’s now common knowledge Facebook is always watching and analyzing how you use the service. But the breadth and depth of the company’s participation in the data brokering economy is staggering. The worst part? You literally signed up for it.</p>
-
-<p>Facebook obviously doesn’t charge its users money, but the mere act of creating a profile affirmatively grants the company total access and usage rights over everything you do on the site. It even shares its data about you with data brokerage firms whose business model is monetizing you.</p>
-
-<p>This is all stuff I have personally known and accepted for a long time, but as the ability to easily aggregate dossiers on anyone and everyone increases, it’s more important than ever to educate yourself and those you care about. Facebook is not free, and in fact it’s worth asking whether the price most people pay by clicking a harmless-looking “I agree” button is really worth it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Why We Don't Speak Up at Work]]></title>
-    <link href="http://joeross.github.io/blog/2014/07/16/why-we-dont-speak-up-at-work/"/>
-    <updated>2014-07-16T09:28:30-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/07/16/why-we-dont-speak-up-at-work</id>
-    <content type="html"><![CDATA[<p><a href="http://ift.tt/1roiuqV">Why we don&rsquo;t speak up at work</a></p>
-
-<p>This piece by Claire Lew at Signal v. Noise doesn’t exactly fit into my general topics of law, technology and design, but it’s so important I that feel obligated to share it. I mention in my article about the role of metrics in editorial strategy that I’ve been present for some poor decisions and didn’t speak my mind.</p>
-
-<p>Claire’s post explains exactly why I failed to speak up, and it’s an important read whether you’re a manager or not. Unlike more navel-gazing, hand-wavy articles in the management advice realm, she actually offers some practical advice.</p>
 ]]></content>
   </entry>
   

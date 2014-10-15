@@ -4,7 +4,7 @@
   <title><![CDATA[Joe Ross]]></title>
   <link href="http://joeross.github.io/atom.xml" rel="self"/>
   <link href="http://joeross.github.io/"/>
-  <updated>2014-10-13T08:58:36-04:00</updated>
+  <updated>2014-10-14T23:06:19-04:00</updated>
   <id>http://joeross.github.io/</id>
   <author>
     <name><![CDATA[Joe Ross]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Systemic Failure of Modern Hiring Practices]]></title>
+    <link href="http://joeross.github.io/blog/2014/09/13/failure-modern-hiring/"/>
+    <updated>2014-09-13T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/09/13/failure-modern-hiring</id>
+    <content type="html"><![CDATA[<p><a href="http://qz.com/258066/this-is-why-you-dont-hire-good-developers/">The systemic failure of modern hiring practices</a></p>
+
+<p>Laurie Voss, in a piece about technical hiring that is easily applied to the legal field and hiring more generally, on asking applicants questions to which they almost certainly don’t know the answer:</p>
+
+<blockquote><p>The weakest candidates will try to waffle or make wild guesses. This is a terrible sign, firstly because it never works, and secondly because they thought that it would. [ &hellip; ] Strong candidates say “I don’t know” as soon as they hit their limit, and may start asking questions. The very strongest candidates say “but if I had to guess” and then attempt to extrapolate.</p></blockquote>
+
+<p>Yup. And what’s more, most interviewers or hiring managers who ask such counterproductive questions are actually looking for the waffles and the wild guesses. They invariably want to see someone who can obfuscate without sacrificing an air of omniscience.</p>
+
+<p>It’s an astounding feat of self-sabotage, and it makes it difficult for the truly intelligent among us (like myself, all arrogance aside…) to make an impression among the din of bloviating thought-sheep.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Privacy Advocates, Tech Companies Nudge Congress to Protect ‘abandoned’ E-mails]]></title>
+    <link href="http://joeross.github.io/blog/2014/09/12/privacy-advocates-tech-companies-congress-abandoned-emails/"/>
+    <updated>2014-09-12T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/09/12/privacy-advocates-tech-companies-congress-abandoned-emails</id>
+    <content type="html"><![CDATA[<p><a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/11/privacy-advocates-tech-companies-nudge-congress-to-protect-abandoned-e-mails/">Privacy advocates, tech companies nudge Congress to protect ‘abandoned’ e-mails</a></p>
+
+<p>The Email Privacy Act would prevent the government from using mere administrative subpoenas to access email older than 180 days. The distinction, included in the <a href="http://en.wikipedia.org/wiki/Stored_Communications_Act">Stored Communications Act </a>, was based on the need for users to access and download email from a service provider&rsquo;s servers. The logic was that if someone hadn&rsquo;t downloaded their email in six months or more, they had effectively abandoned it.</p>
+
+<p>Of course, things are no longer that simple in the age of constant synchronization and push notifications on mobile devices.</p>
+
+<p>Previously:</p>
+
+<ul>
+<li><a href="http://constantandendless.com/links/grover-norquist-on-proposed-update-to-electronic/">Grover Norquist on proposed update to Electronic Communications Privacy Act</a></li>
+<li><a href="http://constantandendless.com/links/ecpa-amendment-would-require-warrant-even-for-email/">ECPA amendment would require warrant even for email older than 6 months</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7th Circuit Strikes Down Gay Marriage Bans in Wisconsin and Indiana]]></title>
+    <link href="http://joeross.github.io/blog/2014/09/05/7th-circuit-gay-marriage/"/>
+    <updated>2014-09-05T00:00:00-04:00</updated>
+    <id>http://joeross.github.io/blog/2014/09/05/7th-circuit-gay-marriage</id>
+    <content type="html"><![CDATA[<p><a href="http://bigstory.ap.org/article/court-rules-against-gay-marriage-bans-2-states">7th Circuit strikes down gay marriage bans in Wisconsin and Indiana</a></p>
+
+<p>The legal momentum favors universal application of the fundamental right of two consenting adults to marry, but that doesn’t make each ruling any less exciting.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Listen: The Lawfare Podcast Discusses Zombies in the Context of International Law and National Security]]></title>
@@ -23,17 +72,6 @@
 <p>If you’ve ever wondered how international law, laws of war and national security policy might be applied to a zombie apocalypse scenario, listen to episode 89 of The Lawfare Podcast.</p>
 
 <p>The law and policy discussed are real and interesting but the tongue-in-cheek analysis is wonderfully entertaining.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Listen: The Lawfare Podcast Discusses Zombies in the Context of International Law and National Security]]></title>
-    <link href="http://joeross.github.io/blog/2014/09/03/7th-circuit-gay-marriage/"/>
-    <updated>2014-09-03T00:00:00-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/09/03/7th-circuit-gay-marriage</id>
-    <content type="html"><![CDATA[<p><a href="http://ift.tt/1ptSzdx">7th Circuit strikes down gay marriage bans in Wisconsin and Indiana</a></p>
-
-<p>The legal momentum favors universal application of the fundamental right of two consenting adults to marry, but that doesn’t make each ruling any less exciting.</p>
 ]]></content>
   </entry>
   
@@ -408,35 +446,6 @@
 <li><p>No, I didn&rsquo;t include a link to the article to which Gino&rsquo;s post responds. That is partially because Gino links to it and I want you to read his post and partially because I don&rsquo;t want to give it any SEO help. The further down in the search results such &ldquo;Abandon all hope&hellip;&rdquo; articles are, the better. ↩</p></li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The True Julian Assange]]></title>
-    <link href="http://joeross.github.io/blog/2014/05/14/true-julian-assange/"/>
-    <updated>2014-05-14T08:00:12-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/05/14/true-julian-assange</id>
-    <content type="html"><![CDATA[<p><a href="http://www.lrb.co.uk/v36/n05/andrew-ohagan/ghosting">The true Julian Assange</a></p>
-
-<p>Andrew O’Hagan reads his essay <em>Ghosting</em>, about the failed ghostwriting project during which he got to know WikiLeaks leader Julian Assange as few do. The full text is also available at the link.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Condoleezza Rice Backs Out of Rutgers Commencement]]></title>
-    <link href="http://joeross.github.io/blog/2014/05/08/condoleezza-rice-backs-out-of-rutgers-commencement/"/>
-    <updated>2014-05-08T08:00:38-04:00</updated>
-    <id>http://joeross.github.io/blog/2014/05/08/condoleezza-rice-backs-out-of-rutgers-commencement</id>
-    <content type="html"><![CDATA[<p><a href="http://bigstory.ap.org/article/condoleezza-rice-decides-against-rutgers-address">Condoleezza Rice backs out of Rutgers commencement</a></p>
-
-<blockquote>
-  The school&#8217;s board of governors had voted to pay $35,000 to the former secretary of state under President George W. Bush and national security adviser for her appearance at the May 18 ceremony.
-</blockquote>
-
-
-<p>Any question involving money, and therefore just about any question at all, boils down at some point to supply and demand. I understand schools want to attract high-profile commencement speakers. But the fact that Rutgers would offer, and Rice would accept, <em>$35,000</em>, to speak for less than an hour, is shameful.</p>
-
-<p>Schools should not be willing to supply so much money, and speakers, often wealthy, should not demand it. For a more thorough treatment of this topic, read the excellent 2011 essay &ldquo;Commencement Cash Cow&rdquo; by Pablo Eisenberg <a href="http://www.insidehighered.com/views/2011/05/09/essay_criticizing_the_practice_of_paying_graduation_speakers">at InsideHigherEd</a>.</p>
 ]]></content>
   </entry>
   
