@@ -1,2 +1,3 @@
 name: Joe Ross
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
