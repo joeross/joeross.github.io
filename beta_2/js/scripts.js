@@ -16,13 +16,14 @@ window.onload = function() {
   }
 
   var messages = [
+    'ⓡ',
     'Hey there 👋',
-    'I\'m Joe Ross',
-    'I\'m a lawyer and a writer',
-    'I work for the <a href="http://www.state.nj.us/dcf">NJ Dept. of Children and Families</a>.<br> You can contact me at <a href="mailto:hi@joeross.me">hi@joeross.me</a>',
-    '<a target="_blank" href="https://twitter.com/joeross">twitter.com/joeross</a><br><a target="_blank" href="https://github.com/joeross">github.com/joeross</a><br><a target="_blank" href="https://review.joeross.me">Medium</a>',
+    'I\'m Joe Ross.',
+    'I\'m a lawyer and a writer.',
+    'I work for the <a href="http://www.state.nj.us/dcf">NJ Dept. of Children and Families</a>.<br> You can contact me at <a href="mailto:hi@joeross.me">hi@joeross.me</a>.',
+    'You can also find me on:<br><a target="_blank" href="https://twitter.com/joeross">twitter</a><br><a target="_blank" href="https://github.com/joeross">github</a><br><a target="_blank" href="https://review.joeross.me">medium</a><br><a target="_blank" href="http://linkedin.com/in/atjoeross">linkedin</a>',
     getCurrentTime(),
-    '👀 J.'
+    '— Joe'
   ]
 
   var getFontSize = function() {
