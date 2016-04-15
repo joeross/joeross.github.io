@@ -24,7 +24,7 @@ window.onload = function() {
     'You can also find me on:<br><a target="_blank" href="https://twitter.com/joeross">twitter</a><br><a target="_blank" href="https://github.com/joeross">github</a><br><a target="_blank" href="https://review.joeross.me">medium</a><br><a target="_blank" href="http://linkedin.com/in/atjoeross">linkedin</a>',
     getCurrentTime(),
     '— Joe',
-    'PS: Thanks to <a href="http://juliangarnier.com/">Julian Garnier</a> for writing the original code I used for this site.<br>You can reach him about freelance work at <a href="mailto:hello@julian.gr">hello@julian.gr</a>.'
+    'PS: Original website code by <a href="http://juliangarnier.com/">Julian Garnier</a>. Contact him at <a href="mailto:hello@julian.gr">hello@julian.gr</a>.'
   ]
 
   var getFontSize = function() {
