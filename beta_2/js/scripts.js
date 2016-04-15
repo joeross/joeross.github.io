@@ -17,10 +17,10 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Julian',
-    'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
-    '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
+    'I\'m Joe Ross',
+    'I\'m a lawyer and a writer',
+    'I work for the <a href="http://www.state.nj.us/dcf">NJ Dept. of Children and Families</a>.<br> You can contact me at <a href="mailto:hi@joeross.me">hi@joeross.me</a>',
+    '<a target="_blank" href="https://twitter.com/joeross">twitter.com/joeross</a><br><a target="_blank" href="https://github.com/joeross">github.com/joeross</a><br><a target="_blank" href="https://review.joeross.me">Medium</a>',
     getCurrentTime(),
     '👀 J.'
   ]
