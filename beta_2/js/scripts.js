@@ -17,14 +17,13 @@ window.onload = function() {
 
   var messages = [
     'ⓡ',
-    'Hey there 👋',
-    'I\'m Joe Ross.',
+    'Hi, my name is Joe Ross.',
     'I\'m a lawyer and a writer.',
-    'I work for the <a href="http://www.state.nj.us/dcf">NJ Dept. of Children and Families</a>.<br> You can contact me at <a href="mailto:hi@joeross.me">hi@joeross.me</a>.',
+    'I work for the <a href="http://www.state.nj.us/dcf">NJ Dept. of Children and Families</a>.',
+    'You can contact me at <a href="mailto:hi@joeross.me">hi@joeross.me</a>.',
     'You can also find me on:<br><a target="_blank" href="https://twitter.com/joeross">twitter</a><br><a target="_blank" href="https://github.com/joeross">github</a><br><a target="_blank" href="https://review.joeross.me">medium</a><br><a target="_blank" href="http://linkedin.com/in/atjoeross">linkedin</a>',
     getCurrentTime(),
     '— Joe',
-    '- - -',
     'PS: Thanks to <a href="http://juliangarnier.com/">Julian Garnier</a> for writing the original code I used for this site.<br>You can reach him about freelance work at <a href="mailto:hello@julian.gr">hello@julian.gr</a>.'
   ]
 
