@@ -1,3 +1,5 @@
+Hey there, Joe here. I forked this from the [original](https://github.com/indieweb/blank-gh-site) on April 8, 2023 to make my new landing page. Like the CC0 license at the bottom of this file says, there's no copyright, and you can do as you please with it.
+
 # blank-gh-site
 
 This repository provides minimal HTML for starting a new web site!
