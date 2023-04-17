@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joeross
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joeross.github.com
+  * I am joeross (https://keybase.io/joeross) on keybase.
+  * I have a public key ASCMPsE7VL-v7dzFklrD9OFHrzOfGW_0EzbAoBGorIy2NQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101274dc8d12f5d01312d84a98aacbc53438711d6bc4fe0beebdd9a7ad3d8d89aac0a",
+      "host": "keybase.io",
+      "kid": "01208c3ec13b54bfafeddcc5925ac3f4e147af339f196ff41336c0a011a8ac8cb6350a",
+      "uid": "936ead12918980a61da4b6032d2f1619",
+      "username": "joeross"
+    },
+    "merkle_root": {
+      "ctime": 1681709314,
+      "hash": "f9d8cfcd3b20f46ae0e8b30e390fafb66ec8f3ef459762d973b9c435735a6bdd3c562a53c254cadbfff80bbb7fe9ae481d3579125cd494cb50fdf09b20bb1435",
+      "hash_meta": "b3e800672a9a551f6766675040642f90cab02ff371a00d6b3485f56c2270045f",
+      "seqno": 24342582
+    },
+    "service": {
+      "entropy": "ernVHLVUnV5QerfDWJMZr/vd",
+      "hostname": "joeross.github.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1681709328,
+  "expire_in": 504576000,
+  "prev": "afcea30b3f9e9258c1e6d83e55d06885dd471b3ea48c6bb88aca11275f84e9d0",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjD7BO1S/r+3cxZJaw/ThR68znxlv9BM2wKARqKyMtjUKp3BheWxvYWTESpcCMsQgr86jCz+ekljB5tg+VdBohd1HGz6kjGu4isoRJ1+E6dDEID5+Ahj17SffjA0CkARAUxttH+V9UJODCzxo3+eifA/PAgHCo3NpZ8RAd4Y8h8d3FYA7U3Z8oVrVd0hKiMAFJ8oJeBtIvxxD1KqnsBdV2VR4PRtGDIE7AHf3e8JVwEAJ09czaXzelFPiDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDkSM9XRTrp8Oc94l4vJ7DUfuJKFmLbtMNEMn9lkkuJKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joeross
+
+==================================================================
