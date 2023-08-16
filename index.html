@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-
-  <script src="https://kit.fontawesome.com/abc8184f51.js" crossorigin="anonymous"></script>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="omg.lol proofs" content="proven.lol/1ea80f">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="authorization_endpoint" href="https://indieauth.com/auth">
-  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-  <!-- To use social readers via microsub, follow these steps.
+  <head>
+    <script src="https://kit.fontawesome.com/abc8184f51.js" crossorigin="anonymous"></script>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="omg.lol proofs" content="proven.lol/1ea80f">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+    <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+    <!-- To use social readers via microsub, follow these steps.
     (Details: https://indieweb.org/Microsub#Getting_Started)
     1. After publishing this to your domain, sign in to https://aperture.p3k.io/login with your domain
     2. You will see a <link> tag displayed on your dashboard that looks like:
@@ -17,73 +16,92 @@
     3. Copy that <link> tag and paste it after this HTML comment.
     4. Publish the updated page!
    -->
- <link rel="microsub" href="https://aperture.p3k.io/microsub/865">
-  <title>Joe Ross ⓡ joeross.me</title>
-  <style>
-    @media (prefers-color-scheme: dark) {
-      html { background-color: #111111; color: #fbfbfb; }
-      a { color: #ca8465; }
-    }
-    body {
-      line-height: 1.6;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-      text-align: center;
-      margin: 1rem auto;
-      min-height: 90vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
-    img.u-photo { border-radius: 50%; }
-    ul { list-style: none;padding: 0;margin: 0;}
+    <link rel="microsub" href="https://aperture.p3k.io/microsub/865">
+    <title>Joe Ross ⓡ joeross.me</title>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        html {
+          background-color: #111111;
+          color: #fbfbfb;
+        }
 
-    .JR {
-      padding-top: 35px;
-    }
+        a {
+          color: #ca8465;
+        }
+      }
 
-    .JR p {
-      padding-top: 15px;
-      font-style: italic;
-      opacity: 15%;
-      font-size: xx-small;
-   }
-  </style>
-</head>
+      body {
+        line-height: 1.6;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+        text-align: center;
+        margin: 1rem auto;
+        min-height: 90vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
 
-<body>
-  <!-- Reference for representative h-card properties: https://microformats.org/wiki/h-card -->
+      img.u-photo {
+        border-radius: 50%;
+      }
 
-<main class="h-card" rel="author">
+      ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      .JR {
+        padding-top: 35px;
+      }
+
+      .JR p {
+        padding-top: 15px;
+        font-style: italic;
+        opacity: 15%;
+        font-size: xx-small;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Reference for representative h-card properties: https://microformats.org/wiki/h-card -->
+    <main class="h-card" rel="author">
       <img class="u-photo" alt="The face of the legend himself, Joe Ross" src="images/IMG_1320.png" />
-    <h1>
-      I'm <span class="p-name">Joe Ross</span>.
-    </h1>
-
-    <p class="p-note">
-<ul>
-  
-<li>🏠   Princeton, dad, husband, butler of pets. </li>
-
-<li>💼   Philly, lawyer, civil litigation. </li>
-
-<li>Posts aren’t legal advice.</li>
-
-<li>🖥️   <a href="https://joeross.me" >joeross.me</a></li>
-
-            <li> <span class="fa-solid fa-classic fa-envelope"></span> <a class="u-url" href="mailto:hi@joeross.me" rel="me">hi@joeross.me</a></li>
-      <li> <span class="fa-solid fa-classic fa-heart"></span> <a class="u-url" href="https://joeross.lol" rel="me">omg.lol</a></li>
-      <li><span class="fa-solid fa-brands fa-microblog"></span> <a class="u-url" href="https://micro.blog/joeross" rel="me">micro.blog</a></li>
-<li><span class="fa-solid fa-brands fa-mastodon"></span> <a class="u-url" rel="me" href="https://mastodon.social/@joeross">mastodon</a></li>
-      <li><span class="fa-solid fa-classic fa-sun"></span> <a class="u-url" rel="me" href="https://bsky.app/profile/joeross.me">bluesky</a></li>
+      <h1> I'm <span class="p-name">Joe Ross</span>. </h1>
+      <p class="p-note">
+      <ul>
+        <li>🏠 Princeton, dad, husband, butler of pets. </li>
+        <li>💼 Philly, lawyer, civil litigation. </li>
+        <li>Posts aren’t legal advice.</li>
+        <li>🖥️ <a href="https://joeross.me">joeross.me</a>
+        </li>
+        <li>
+          <span class="fa-solid fa-classic fa-envelope"></span>
+          <a class="u-url" href="mailto:hi@joeross.me" rel="me">hi@joeross.me</a>
+        </li>
+        <li>
+          <span class="fa-solid fa-classic fa-heart"></span>
+          <a class="u-url" href="https://joeross.lol" rel="me">omg.lol</a>
+        </li>
+        <li>
+          <span class="fa-solid fa-brands fa-microblog"></span>
+          <a class="u-url" href="https://micro.blog/joeross" rel="me">micro.blog</a>
+        </li>
+        <li>
+          <span class="fa-solid fa-brands fa-mastodon"></span>
+          <a class="u-url" rel="me" href="https://mastodon.social/@joeross">mastodon</a>
+        </li>
+        <li>
+          <span class="fa-solid fa-classic fa-sun"></span>
+          <a class="u-url" rel="me" href="https://bsky.app/profile/joeross.me">bluesky</a>
+        </li>
       </ul>
-<a href="https://joeross.micro.blog/" rel="me"></a>
-<a href="https://github.com/joeross" rel="me"></a>
-<a href="https://social.lol/@joeross" rel="me"></a>
-     <!--  <li><span class="fa-solid fa-classic fa-file-lines"></span> <a class="u-url" href="https://read.cv/joeross" rel="me">read.cv/joeross</a></li> -->
-
- 
+      <a href="https://joeross.micro.blog/" rel="me"></a>
+      <a href="https://github.com/joeross" rel="me"></a>
+      <a href="https://social.lol/@joeross" rel="me"></a>
+      <!--  <li><span class="fa-solid fa-classic fa-file-lines"></span><a class="u-url" href="https://read.cv/joeross" rel="me">read.cv/joeross</a></li> -->
     </main>
-  <p style="font-style:italic;opacity:50%;font-size:small;">ⓡ A <a href="https://joeross.me" style="text-decoration-style: dotted;">Joe Ross</a> production</p>
-</body>
+    <p style="font-style:italic;opacity:50%;font-size:small;">ⓡ A <a href="https://joeross.me" style="text-decoration-style: dotted;">Joe Ross</a> production </p>
+  </body>
 </html>
