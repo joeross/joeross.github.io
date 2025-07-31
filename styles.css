@@ -1,0 +1,66 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #111111;
+    color: #fbfbfb;
+  }
+
+  a {
+    color: #ca8465;
+  }
+}
+
+body {
+  line-height: 1.6;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+  text-align: center;
+  margin: 1rem auto;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img.u-photo {
+  border-radius: 50%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-bottom: 0.5em; /* Added for spacing */
+}
+
+.JR {
+  padding-top: 35px;
+}
+
+.JR p {
+  padding-top: 15px;
+  font-style: italic;
+  opacity: 15%;
+  font-size: xx-small;
+}
+
+/* New classes for extracted inline styles */
+.hidden-link {
+  display: none;
+}
+
+.footer-text {
+  font-style: italic;
+  opacity: 50%;
+  font-size: small;
+}
+
+.dotted-link {
+  text-decoration-style: dotted;
+}
