@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
-<page url="https://joeross.neocities.org/index.html">
 	<head>
+		<meta page-url="https://home.joeross.me/index.html" />
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="mobile-web-app-capable" content="yes" />
 		<meta name="omg.lol proofs" content="proven.lol/1ea80f" />
@@ -9,56 +9,45 @@
 		<link rel="authorization_endpoint" href="https://indieauth.com/auth" />
 		<link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
 		<link rel="microsub" href="https://aperture.p3k.io/microsub/865" />
+		<link rel="stylesheet" href="styles.css" />
 		<title>Joe Ross ⓡ joeross.me</title>
-		<style>
-			@media (prefers-color-scheme: dark) {
-			  html {
-			    background-color: #111111;
-			    color: #fbfbfb;
-			  }
-
-			  a {
-			    color: #ca8465;
-			  }
-			}
-
-			body {
-			  line-height: 1.6;
-			  font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-			  text-align: center;
-			  margin: 1rem auto;
-			  min-height: 90vh;
-			  display: flex;
-			  flex-direction: column;
-			  justify-content: center;
-			  align-items: center;
-			}
-
-			img.u-photo {
-			  border-radius: 50%;
-			}
-
-			ul {
-			  list-style: none;
-			  padding: 0;
-			  margin: 0;
-			}
-
-			li {
-			  padding-bottom: 0.5em; /* Added for spacing */
-			}
-
-			.JR {
-			  padding-top: 35px;
-			}
-
-			.JR p {
-			  padding-top: 15px;
-			  font-style: italic;
-			  opacity: 15%;
-			  font-size: xx-small;
-			}
-		</style>
+	</head>
+	<body class="h-card" rel="author">
+		<div class="background-gradient"></div>
+		<div class="floating-shapes">
+			<div class="shape shape-1"></div>
+			<div class="shape shape-2"></div>
+			<div class="shape shape-3"></div>
+		</div>
+		
+		<main class="main-content">
+			<div class="profile-container">
+				<div class="avatar-wrapper">
+					<img
+						class="u-photo avatar"
+						alt="The face of the legend himself, Joe Ross"
+						src="images/IMG_3859.jpeg"
+						width="150"
+						height="150"
+					/>
+					<div class="avatar-ring"></div>
+				</div>
+				
+				<h1 class="main-title">
+					<span class="wave">👋</span> Hi, I'm
+					<span<!doctype html>
+<html lang="en">
+	<head>
+		<meta page-url="https://joeross.neocities.org/index.html" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="mobile-web-app-capable" content="yes" />
+		<meta name="omg.lol proofs" content="proven.lol/1ea80f" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+		<link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+		<link rel="microsub" href="https://aperture.p3k.io/microsub/865" />
+		<link rel="stylesheet" href="styles.css" />
+		<title>Joe Ross ⓡ joeross.me</title>
 	</head>
 	<body class="h-card" rel="author">
 		<main>
@@ -123,45 +112,60 @@
 						bluesky
 					</a>
 				</li>
-								<li>🌆 <a href="https://joeross.neocities.org/">neocities</a></li>
-				<li>🐱 <a href="https://joeross.nekoweb.org/">nekoweb</a></li>
-				
+<li>🐱 <a href="https://joeross.nekoweb.org/">nekoweb</a></li>
 			</ul>
 
 			<a
 				href="https://joeross.micro.blog/"
 				rel="me"
-				style="display:none;"
+				class="hidden-link"
 			></a>
 			<a
 				href="https://github.com/joeross"
 				rel="me"
-				style="display:none;"
+				class="hidden-link"
 			></a>
 			<a
 				href="https://social.lol/@joeross"
 				rel="me"
-				style="display:none;"
+				class="hidden-link"
 			></a>
 		</main>
 		
 		<footer>
-  <p style="font-style:italic;opacity:50%;font-size:small;">You are here: <span id="current-url"></span></p>
+  <p class="footer-text">You are here: <span id="current-url"></span></p>
   <script>
     // Set the current URL into the span
     document.getElementById('current-url').textContent = window.location.href;
   </script>
-		<p style="font-style:italic;opacity:50%;font-size:small;">
+		<p class="footer-text">
 			ⓡ A
-			<a href="https://joeross.me" style="text-decoration-style: dotted;">
-				Joe Ross
-			</a>
-			production
+			<a href="https://joeross.me" class="dotted-link">
+				Joe Ross</a> production
 		</p>
-			<!-- Privacy verification -->
-		<p style="font-style:italic;opacity:50%;font-size:small;">
-    <a href="https://themarkup.org/blacklight?location=us-ca&device=desktop&force=true&url=https://home.joeross.me">No Tracking</a>
+<!-- Privacy verification -->
+		<p class="footer-text">
+    <a href="https://themarkup.org/blacklight?location=us-ca&device=desktop&force=true&url=https://joeross.neocities.org/">No Tracking</a>
 </p>
+
+<!-- Identity verification links (hidden empty links) -->
+<a href="https://joeross.me/" class="h-card hidden-link" rel="me"></a>
+<a rel="me" href="https://joeross.neocities.org/" class="hidden-link"></a>
+<a rel="me" href="https://joeross.nekoweb.org/" class="hidden-link"></a>
+<a rel="me" href="https://en.gravatar.com/joeross1" class="hidden-link"></a>
+<a rel="me" href="https://libre.fm/user/joerossFM" class="hidden-link"></a>
+<a rel="me" href="https://libre.fm/user/joerossFM1" class="hidden-link"></a>
+<a rel="me" href="https://github.com/joeross" class="hidden-link"></a>
+<a rel="me" href="https://joeross.micro.blog" class="hidden-link"></a>
+<a rel="me" href="https://joeross.omg.lol" class="hidden-link"></a>
+<a rel="me" href="https://joeross.proven.lol" class="hidden-link"></a>
+<a rel="me" href="https://social.lol/@joeross" class="hidden-link"></a>
+<a rel="me" href="https://status.lol/joeross" class="hidden-link"></a>
+<a rel="me" href="https://www.threads.net/@joeross.me" class="hidden-link"></a>
+<a rel="me" href="https://listenbrainz.org/user/joeross/" class="hidden-link"></a>
+<a rel="me" href="https://musicbrainz.org/user/joeross" class="hidden-link"></a>
+<a rel="me" href="https://mastodon.social/@joeross" class="hidden-link"></a>
+<a rel="me" href="https://bsky.app/profile/joeross.me" class="hidden-link"></a>
 		</footer>
 	</body>
 </html>
