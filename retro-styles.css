@@ -22,7 +22,7 @@ body {
   font-family: "Courier New", "Monaco", "Lucida Console", monospace;
   text-align: center;
   margin: 0;
-  padding: 20px;
+  padding: 40px 20px 20px 20px;
   min-height: 100vh;
   background: linear-gradient(45deg, #c0c0c0 25%, transparent 25%), 
               linear-gradient(-45deg, #c0c0c0 25%, transparent 25%), 
@@ -225,8 +225,4 @@ body::before {
   font-size: 12px;
   z-index: 1000;
   border-bottom: 2px solid #ffff00;
-}
-
-body {
-  padding-top: 40px;
 }
