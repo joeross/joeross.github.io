@@ -1,112 +1,183 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Theme Switcher</title>
+  <meta page-url="https://home.joeross.me/index.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="omg.lol proofs" content="proven.lol/1ea80f" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+  <link rel="microsub" href="https://aperture.p3k.io/microsub/865" />
+  <title>Joe Ross Ⓛ joeross.me</title>
   <style>
     :root {
-      --bg-color: #ffffff;
-      --text-color: #000000;
-      --accent-color: #007bff;
+      --bg: #000022;
+      --text: #ffffcc;
+      --accent1: #cc0000;
+      --accent2: #0000ff;
+      --accent3: #ffff00;
+      --box: #222266;
+      --highlight: #ff0000;
+      --highlight-text: #ffffcc;
     }
 
-    body.dark {
-      --bg-color: #121212;
-      --text-color: #f5f5f5;
-      --accent-color: #66b2ff;
+    body.inverted {
+      --bg: #ffffdd;
+      --text: #1a1a1a;
+      --accent1: #ff6666;
+      --accent2: #ccccff;
+      --accent3: #222200;
+      --box: #eeeeff;
+      --highlight: #ccccff;
+      --highlight-text: #222200;
     }
 
     body {
-      margin: 0;
-      font-family: system-ui, sans-serif;
-      background-color: var(--bg-color);
-      color: var(--text-color);
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-      transition: background-color 0.3s ease, color 0.3s ease;
-    }
-
-    header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 1rem;
-    }
-
-    main {
-      flex: 1;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Courier New", monospace;
+      line-height: 1.6;
       padding: 2rem;
     }
 
-    footer {
-      text-align: center;
-      padding: 1rem;
-    }
-
-    .toggle {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
-
-    input[type="checkbox"] {
-      width: 40px;
-      height: 20px;
-      appearance: none;
-      background-color: #ccc;
-      border-radius: 10px;
-      position: relative;
+    .toggle-btn {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background: var(--accent3);
+      color: var(--accent2);
+      border: 2px solid var(--accent1);
+      padding: 5px 10px;
       cursor: pointer;
-      outline: none;
-      transition: background-color 0.2s;
+      z-index: 1000;
     }
 
-    input[type="checkbox"]::before {
-      content: "";
-      position: absolute;
-      width: 16px;
-      height: 16px;
-      top: 2px;
-      left: 2px;
-      background: white;
+    main {
+      text-align: center;
+      background: var(--accent3);
+      color: var(--highlight-text);
+      border: 4px solid var(--accent1);
+      box-shadow: 6px 6px 0 var(--accent2);
+      padding: 2rem;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      color: var(--accent1);
+      text-shadow: 1px 1px var(--accent2);
+    }
+
+    .u-photo {
       border-radius: 50%;
-      transition: transform 0.2s;
+      border: 5px solid var(--accent2);
+      width: 150px;
+      height: 150px;
+      animation: spin 10s linear infinite;
+      filter: contrast(2) saturate(3);
     }
 
-    input[type="checkbox"]:checked {
-      background-color: var(--accent-color);
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
     }
 
-    input[type="checkbox"]:checked::before {
-      transform: translateX(20px);
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      background: var(--box);
+      border-bottom: 1px dashed var(--accent2);
+      padding: 0.5rem;
+      margin: 0.25rem 0;
+      font-weight: bold;
+    }
+
+    a {
+      color: var(--accent1);
+      text-decoration: underline;
+    }
+
+    a:hover {
+      background: var(--accent1);
+      color: var(--highlight-text);
+      padding: 2px 4px;
+    }
+
+    footer {
+      margin-top: 2rem;
+      font-size: 0.8rem;
+      color: var(--text);
+      background: var(--box);
+      border: 2px solid var(--accent1);
+      padding: 1rem;
+      text-align: center; 
+    }
+
+    .hidden-link {
+      display: none;
     }
   </style>
 </head>
-<body>
-  <header>
-    <h1>Theme Demo</h1>
-    <div class="toggle">
-      <label for="themeToggle">Dark Mode</label>
-      <input type="checkbox" id="themeToggle" />
-    </div>
-  </header>
-
+<body class="h-card" rel="author">
+  <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
   <main>
-    <p>This is a sample page with theme toggle.</p>
-    <p>Switch between dark and light mode using the toggle above.</p>
+    <img class="u-photo" alt="The face of the legend himself, Joe Ross" src="images/IMG_3859.jpeg" width="150" height="150" />
+    <h1>👋 Hi, I'm <span class="p-name">Joe Ross</span></h1>
+    <div class="p-note">
+      <ul>
+        <li>🏠 Dad, husband, geek into<br /> tech policy, sci-fi & the indie web</li>
+        <li>💼 Lawyer focused on civil litigation</li>
+        <li>🚫Nothing here is legal advice.</li>
+      </ul>
+    </div>
+    <p>🖥️ <a class="u-url" href="https://joeross.me">joeross.me</a></p>
+    <ul>
+      <li>✉️ <a class="u-email" href="mailto:hi@joeross.me" rel="me">hi@joeross.me</a></li>
+      <li>❤️ <a class="u-url" href="https://joeross.lol" rel="me">omg.lol</a></li>
+      <li>📝 <a class="u-url" href="https://micro.blog/joeross" rel="me">micro.blog</a></li>
+      <li>🐘 <a class="u-url" rel="me" href="https://mastodon.social/@joeross">mastodon</a></li>
+      <li>☀️ <a class="u-url" rel="me" href="https://bsky.app/profile/joeross.me">bluesky</a></li>
+      <li>🐱 <a href="https://joeross.nekoweb.org/">nekoweb</a></li>
+    </ul>
+    <a href="https://joeross.micro.blog/" rel="me" class="hidden-link"></a>
+    <a href="https://github.com/joeross" rel="me" class="hidden-link"></a>
+    <a href="https://social.lol/@joeross" rel="me" class="hidden-link"></a>
   </main>
-
   <footer>
-    &copy; 2025 Joseph Ross
+    <p class="footer-text">You are here: <span id="current-url"></span></p>
+    <script>document.getElementById('current-url').textContent = window.location.href;</script>
+    <p class="footer-text">Ⓛ A <a href="https://joeross.me" class="dotted-link">Joe Ross</a> production</p>
+    <p class="footer-text">
+      <a href="https://themarkup.org/blacklight?location=us-ca&device=desktop&force=true&url=https://joeross.neocities.org/">No Tracking</a>
+    </p>
+    <!-- Identity verification links -->
+    <a href="https://joeross.me/" class="h-card hidden-link" rel="me"></a>
+    <a rel="me" href="https://joeross.neocities.org/" class="hidden-link"></a>
+    <a rel="me" href="https://joeross.nekoweb.org/" class="hidden-link"></a>
+    <a rel="me" href="https://en.gravatar.com/joeross1" class="hidden-link"></a>
+    <a rel="me" href="https://libre.fm/user/joerossFM" class="hidden-link"></a>
+    <a rel="me" href="https://libre.fm/user/joerossFM1" class="hidden-link"></a>
+    <a rel="me" href="https://github.com/joeross" class="hidden-link"></a>
+    <a rel="me" href="https://joeross.micro.blog" class="hidden-link"></a>
+    <a rel="me" href="https://joeross.omg.lol" class="hidden-link"></a>
+    <a rel="me" href="https://joeross.proven.lol" class="hidden-link"></a>
+    <a rel="me" href="https://social.lol/@joeross" class="hidden-link"></a>
+    <a rel="me" href="https://status.lol/joeross" class="hidden-link"></a>
+    <a rel="me" href="https://www.threads.net/@joeross.me" class="hidden-link"></a>
+    <a rel="me" href="https://listenbrainz.org/user/joeross/" class="hidden-link"></a>
+    <a rel="me" href="https://musicbrainz.org/user/joeross" class="hidden-link"></a>
+    <a rel="me" href="https://mastodon.social/@joeross" class="hidden-link"></a>
+    <a rel="me" href="https://bsky.app/profile/joeross.me" class="hidden-link"></a>
   </footer>
-
   <script>
-    const toggle = document.getElementById('themeToggle');
-    toggle.addEventListener('change', () => {
-      document.body.classList.toggle('dark', toggle.checked);
-    });
+    function toggleTheme() {
+      document.body.classList.toggle('inverted');
+    }
   </script>
 </body>
 </html>
